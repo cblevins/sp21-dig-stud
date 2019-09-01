@@ -27,18 +27,32 @@ With the person next to you, compare notes:
 - What one is more appealing or informative to you as a viewer - let’s say you’re thinking about taking a class with one of them or want to do some kind of project with them - what is helpful and what isn’t? It’s okay to be honest. :)
 
 
+## Make a Sandbox
+
+Today we are going to install a Wordpress site that will be hosted with your account at Reclaim hosting. First, we're going to create a new sub-directory in our Reclaim Hosting database that is going to serve as your **"sandbox"** for the semester. This is what you're going to use to play around with different tools, installations, etc. 
+
+To create your sandbox:
+
+- Log in to Reclaim Hosting with the account you created
+- Go to `File Manager` and make sure you are in the `public_html` folder
+- Add a new folder within your `public_html` folder called `f19-dig-hist` (make sure it says `public_html` under "New folder will be created in:")
+- Navigate to the folder. It should be empty!
+
 ## Install a Wordpress Site
 
-Today we are going to install a Wordpress site that will be hosted with your account at Reclaim hosting. Rather than create your own professional website, to begin we're going to create a site within a sub-directory of your main site. This is going to function as a "sandbox" to play around in during the course of the semester.  
+Rather than create your own professional website at the root directory for whatever domain name you chose, we're going to make a Wordpress website within your "sandbox" sub-directory. 
 
-Follow these instructions to install a Wordpress site under Reclaim Hosting: <https://community.reclaimhosting.com/t/installing-wordpress/265>
+You are gong to follow the following instructions to install a Wordpress site using Reclaim Hosting. But you are going to install it **within a specific sub-folder (sub-directory)** of your `f19-dig-hist` sandbox folder. The name of this sub-directory is going to be `website`. So when you're asked for Directory (Optional), type in: `f19-dig-hist/website`
 
-**Important Notes!!!**
+Note: choose a username and password that you can remember and copy/paste it somewhere for your reference. This is what you're going to use to log in to this Wordpress site moving forward.
 
-- Be sure to include the following under Directory(Optional): ```f19-dig-hist-sandbox```
-- Choose a username and password that you can remember and copy/paste it somewhere for your reference. This is what you're going to use to log in to this Wordpress site moving forward.
+Instructions: <https://community.reclaimhosting.com/t/installing-wordpress/265>.
 
-Now you should have a website installed under ```http://yourdomainname/f19-dig-hist-sandbox```. To access the Control Panel for this site, go to ```http://yourdomainname/f19-dig-hist-sandbox/wp-admin``` and log in using the username and password you specified earlier.
+Now you should have a website installed under `http://yourdomainname/f19-dig-hist/website`. If you go back to Reclaim Hosting's `File Manager` and go back to `f19-dig-hist` folder, you should now see a new folder called `website`. If you look inside here, you will see a bunch of new folders and files that were automatically generated to "build" your Wordpress site. 
+
+To actually start modifying your website, you need to log in to the Wordpress dashboard (separate from Reclaim Hosting). The login page will be: `http://yourdomainname/f19-dig-hist/website/wp-admin` , and you will use the username and password you specified when you installed Wordpress.
+
+**STOP: Once you've reached this point we will go over Wordpress features in person.**
 
 ## Play Around
 

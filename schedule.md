@@ -7,7 +7,7 @@ title: Schedule
 
 ### Week 1, 9/4: Introductions
 
-### Week 2, 9/11: The Digital Age (or, just how f\*\*\*'d are we?)
+### Week 2, 9/11: The Digital Age (or, just how f'd are we?)
 
 _Reading_
 - ["The Age of the Algorithm"](https://99percentinvisible.org/episode/the-age-of-the-algorithm/) *99% Invisible* podcast (September 5, 2017).
@@ -18,9 +18,9 @@ of Trackers Followed Me."](https://www.nytimes.com/interactive/2019/08/23/opinio
 _Assignments_
 - Register for a personal account and domain name with [Reclaim Hosting](https://reclaimhosting.com/pricing/) (Cost: thirty dollars)
 - Download and install [Anaconda](https://docs.anaconda.com/anaconda/install/)
-- Join the class Slack channel (check email for invitation).
 
-[In-Class: Wordpress]({{site.baseurl}}/week-02/week-02-wordpress)
+_In-Class_
+- [Introduction to Wordpress]({{site.baseurl}}/week-02/week-02-wordpress)
 
 ## II. Approaches and Methods
 
@@ -32,10 +32,12 @@ _Readings_
 
 _Assignments_
 - Install Wordpress for your main domain, select a theme that you like, and make a short About page. 
-- Complete the following tutorial: Sarah Simpkin, "Getting Started with Markdown," *The Programming Historian* 4 (2015), <https://programminghistorian.org/en/lessons/getting-started-with-markdown>.
-- Post your discussion questions on: 1) Slack and 2) in a new Wordpress blog post. Include a link to your Wordpress post over slack. 
+- Garen Torikian's [Markdown Tutorial](https://www.markdowntutorial.com/): Read the landing page, then complete lessons 1, 2, 3, and 6.
+- Post your discussion questions on: 1) Slack and 2) in a new Wordpress blog post. Include a link to your Wordpress post over Slack. 
 
-[In-Class: Wordpress]({{site.baseurl}}/week-02/week-02-wordpress)
+_In Class_ 
+- [Markdown Exercise]({{site.baseurl}}/week-03/week-03-markdown)
+- [Getting Started With Python]({{site.baseurl}}/week-03/week-03-getting-started-with-python.ipynb) (link to download Jupyter Notebook file)
 
 ### Week 4, 9/25: Data
 
@@ -44,15 +46,20 @@ _Readings_
 - Watch first 13:20 of Neil Halloran, [*The Fallen of World War II*](http://www.fallen.io/ww2/) (2015).
 
 _Assignments_
-- Complete Week 4 Python homework.
+- Complete Week 4 homework.
+
+_In Class_
+- Control Structures in Python
  
 ### Week 5, 10/2: Public History and Digital Collections
 
 _Readings_
 - Sheila A. Brennan, ["Public, First"](http://dhdebates.gc.cuny.edu/debates/text/83), *Debates in Digital Humanities 2016*.
-- Explore Kate Bagnall and Tim Sherratt's [Invisible Australians](http://invisibleaustralians.org/) and read ["‘A map and some pins’: Open data and Unlimited Horizons"](http://discontents.com.au/a-map-and-some-pins-open-data-and-unlimited-horizons/)
+- Julia Falkowski, ["Custom collections content and generous interfaces"](https://mw2016.museumsandtheweb.com/paper/custom-collections-content-and-generous-interfaces/) *Museums and the Web 2016*.
+- Jennifer Hijazi, ["Is Instagram killing our museum culture or reinventing it?"](https://www.pbs.org/newshour/arts/is-instagram-killing-our-museum-culture-or-reinventing-it?) *PBS*, November 17, 2017.
 
-_Assignments_
+_In Class_
+- Using Omeka to build digital collections
 
 ### Week 6, 10/9: Texts
 
@@ -60,14 +67,16 @@ _Reading_
 - Ted Underwood, ["Seven ways humanists are using computers to understand text"](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) *The Stone and the Shell*, June 4, 2015.
 
 _Assignments_
-- Complete Week 6 Python homework.
+- Complete Week 6 homework.
+
+_In Class_
+- Using Python to Work with Text
 
 ### Week 7, 10/16: Visualization
 
 _Reading_
 - Nathan Yau, *Data Points: Visualization That Means Something*, Ch. 5: Visualizing with Clarity, pp. 201-240.
 - Catherine D'Ignazio and Lauren Klein, *Data Feminism* [Chapter 5: The Numbers Don’t Speak for Themselves](https://bookbook.pubpub.org/pub/6ui5n4vo)
-
 
 _Assignments_
 - Download and install [Tableau Public](https://public.tableau.com/en-us/s/)
@@ -79,7 +88,7 @@ _Reading_
 - Digital Scholarship Lab, “Renewing Inequality,” American Panorama, ed. Robert K. Nelson and Edward L. Ayers, <http://dsl.richmond.edu/panorama/renewal/>
 
 _Assignments_
-- Complete first part (just Google Maps) of: Jim Clifford, Josh MacFadyen, and Daniel Macfarlane, "Intro to Google Maps and Google Earth," The Programming Historian 2 (2013), <https://programminghistorian.org/en/lessons/googlemaps-googleearth>
+- Complete first part (just Google Maps) of: Jim Clifford, Josh MacFadyen, and Daniel Macfarlane, ["Intro to Google Maps and Google Earth,"](https://programminghistorian.org/en/lessons/googlemaps-googleearth) *The Programming Historian 2* (2013).
 
 ### Week 9, 10/30: Narrative, Communication, and New Media
 
