@@ -17,7 +17,7 @@ Because this is a digital history course, we will be using a variety of software
 
 **Slack Workspace**
 
-We will be using a Slack workspace: <https://f19-dig-hist.slack.com/> for announcements, posting discussion questions, distributing readings, sharing datasets, etc.
+We will be using a Slack workspace (<https://f19-dig-hist.slack.com/>) for announcements, posting discussion questions, distributing readings, sharing datasets, etc.
 
 **Health and Wellness**
 
