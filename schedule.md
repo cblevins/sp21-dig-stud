@@ -46,7 +46,7 @@ _Readings_
 - Watch first 13:20 of Neil Halloran, [*The Fallen of World War II*](http://www.fallen.io/ww2/) (2015).
 
 _Assignments_
-- Complete Week 4 homework.
+- Complete Week 4 Python homework.
 
 _In Class_
 - Control Structures in Python
@@ -67,10 +67,10 @@ _Reading_
 - Ted Underwood, ["Seven ways humanists are using computers to understand text"](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) *The Stone and the Shell*, June 4, 2015.
 
 _Assignments_
-- Complete Week 6 homework.
+- Complete Week 6 Python homework.
 
 _In Class_
-- Using Python to Work with Text
+- Using Python to work with text
 
 ### Week 7, 10/16: Visualization
 
@@ -80,15 +80,23 @@ _Reading_
 
 _Assignments_
 - Download and install [Tableau Public](https://public.tableau.com/en-us/s/)
+- Tutorial: Miriam Posner, ["Getting started with Tableau Public"](http://miriamposner.com/classes/dh201w19/tutorials-guides/data-visualization/getting-started-with-tableau-public/) *Digital Humanities 201* (UCLA, Winter 2019).
+- Complete Week 7 Python homework
+
+_In Class_
+- Principles of data visualization 
 
 ### Week 8, 10/23: Maps 
 
 _Reading_
-- Robert K. Nelson, LaDale Winling, Richard Marciano, Nathan Connolly, et al., “Mapping Inequality,” American Panorama, ed. Robert K. Nelson and Edward L. Ayers, <https://dsl.richmond.edu/panorama/redlining/>
-- Digital Scholarship Lab, “Renewing Inequality,” American Panorama, ed. Robert K. Nelson and Edward L. Ayers, <http://dsl.richmond.edu/panorama/renewal/>
+- Sarah Bond, ["How Is Digital Mapping Changing The Way We Visualize Racism and Segregation?"](https://www.forbes.com/sites/drsarahbond/2017/10/20/how-is-digital-mapping-changing-the-way-we-visualize-racism-and-segregation/) *Forbes*, October 20, 2017.
+- Andrew Wiseman, ["When Maps Lie"](https://www.citylab.com/design/2015/06/when-maps-lie/396761/) *CityLab*, June 25, 2015. 
 
 _Assignments_
-- Complete first part (just Google Maps) of: Jim Clifford, Josh MacFadyen, and Daniel Macfarlane, ["Intro to Google Maps and Google Earth,"](https://programminghistorian.org/en/lessons/googlemaps-googleearth) *The Programming Historian 2* (2013).
+- Tutorial: Miriam Posner, ["Create a map with Tableau"](http://miriamposner.com/classes/dh201w19/tutorials-guides/mapping/create-a-map-with-tableau/) *Digital Humanities 201* (UCLA, Winter 2019).
+
+_In Class_
+- Spatial data and putting things onto a map
 
 ### Week 9, 10/30: Narrative, Communication, and New Media
 
@@ -100,6 +108,8 @@ _Reading_
 _Assignments_
 - Download and install [Audacity](https://www.audacityteam.org/)
 
+_In Class_
+- Recording and editing podcasts
 
 ## III. Putting it Together
 
