@@ -26,6 +26,8 @@ _In-Class_
 
 ### Week 3, 9/18: Archives
 
+*Adam and Isabel*
+
 _Readings_
 - Lara Putnam, ["The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast,"](https://doi.org/10.1093/ahr/121.2.377) *The American Historical Review*, Volume 121, Issue 2, 1 April 2016, pp. 377–402.
 - Samantha Thompson, ["Why Don't Archvists Digitize Everything?"](https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/) May 31, 2017.
@@ -41,6 +43,8 @@ _In Class_
 
 ### Week 4, 9/25: Data
 
+*Sebastien*
+
 _Readings_
 - Jessica Marie Johnson, ["Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads"](https://doi.org/10.1215/01642472-7145658) *Social Text*, Vol. 36, No. 4 (2018).
 - Watch first 13:20 of Neil Halloran, [*The Fallen of World War II*](http://www.fallen.io/ww2/) (2015).
@@ -53,6 +57,8 @@ _In Class_
  
 ### Week 5, 10/2: Public History and Digital Collections
 
+*Grace, Gillian, Danielle*
+
 _Readings_
 - Sheila A. Brennan, ["Public, First"](http://dhdebates.gc.cuny.edu/debates/text/83), *Debates in Digital Humanities 2016*.
 - Julia Falkowski, ["Custom collections content and generous interfaces"](https://mw2016.museumsandtheweb.com/paper/custom-collections-content-and-generous-interfaces/) *Museums and the Web 2016*.
@@ -62,6 +68,8 @@ _In Class_
 - Using Omeka to build digital collections
 
 ### Week 6, 10/9: Texts
+
+*Alex*
 
 _Reading_
 - Ted Underwood, ["Seven ways humanists are using computers to understand text"](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) *The Stone and the Shell*, June 4, 2015.
@@ -73,6 +81,8 @@ _In Class_
 - Using Python to work with text
 
 ### Week 7, 10/16: Visualization
+
+*Claire*
 
 _Reading_
 - Nathan Yau, *Data Points: Visualization That Means Something*, Ch. 5: Visualizing with Clarity, pp. 201-240.
@@ -88,6 +98,8 @@ _In Class_
 
 ### Week 8, 10/23: Maps 
 
+*Alicia, Maethee, Nav*
+
 _Reading_
 - Sarah Bond, ["How Is Digital Mapping Changing The Way We Visualize Racism and Segregation?"](https://www.forbes.com/sites/drsarahbond/2017/10/20/how-is-digital-mapping-changing-the-way-we-visualize-racism-and-segregation/) *Forbes*, October 20, 2017.
 - Andrew Wiseman, ["When Maps Lie"](https://www.citylab.com/design/2015/06/when-maps-lie/396761/) *CityLab*, June 25, 2015. 
@@ -99,6 +111,8 @@ _In Class_
 - Spatial data and putting things onto a map
 
 ### Week 9, 10/30: Narrative, Communication, and New Media
+
+*Angelica*
 
 _Reading_
 - Rebecca Onion, ["Making History Go Viral"](https://slate.com/news-and-politics/2018/12/twitter-history-viral-threads-2018.html) *Slate* (11 Dec. 2018)
