@@ -57,7 +57,7 @@ _In Class_
  
 ### Week 5, 10/2: Public History and Digital Collections
 
-*Grace, Gillian, Danielle*
+*Grace W., Gillian, Danielle*
 
 _Readings_
 - Sheila A. Brennan, ["Public, First"](http://dhdebates.gc.cuny.edu/debates/text/83), *Debates in Digital Humanities 2016*.
@@ -82,7 +82,7 @@ _In Class_
 
 ### Week 7, 10/16: Visualization
 
-*Claire*
+*Claire and Grace P.*
 
 _Reading_
 - Nathan Yau, *Data Points: Visualization That Means Something*, Ch. 5: Visualizing with Clarity, pp. 201-240.
