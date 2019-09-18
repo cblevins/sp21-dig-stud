@@ -15,4 +15,3 @@ Go to: <https://jbt.github.io/markdown-editor/>. This is an online Markdown edit
 Now log in to your Wordpress dashboard and edit the post that contains your discussion questions so that it looks like your Markdown version of the discussion questions.
 
 Discussion: What are some of the differences between editing text in Wordpress vs. Markdown?
-

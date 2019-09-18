@@ -50,7 +50,7 @@ _Readings_
 - Watch first 13:20 of Neil Halloran, [*The Fallen of World War II*](http://www.fallen.io/ww2/) (2015).
 
 _Assignments_
-- Complete Week 4 Python homework.
+- Complete [Week 4 Python homework]({{site.baseurl}}/homework/week-04-homework).
 
 _In Class_
 - Control Structures in Python
