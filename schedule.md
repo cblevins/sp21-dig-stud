@@ -53,7 +53,8 @@ _Assignments_
 - Complete [Week 4 Python homework]({{site.baseurl}}/homework/week-04-homework).
 
 _In Class_
-- Control Structures in Python
+- [Making Data]({{site.baseurl}}/week-04/week-04-making-data)
+- [Wrangling Data]({{site.baseurl}}/week-04/week-04-data-wrangling.ipynb)
  
 ### Week 5, 10/2: Public History and Digital Collections
 
