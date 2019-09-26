@@ -58,7 +58,7 @@ _In Class_
  
 ### Week 5, 10/2: Public History and Digital Collections
 
-*Grace W., Gillian, Danielle*
+*Grace W., Jillian, Danielle*
 
 _Readings_
 - Sheila A. Brennan, ["Public, First"](http://dhdebates.gc.cuny.edu/debates/text/83), *Debates in Digital Humanities 2016*.
