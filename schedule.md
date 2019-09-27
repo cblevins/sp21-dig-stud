@@ -58,12 +58,15 @@ _In Class_
  
 ### Week 5, 10/2: Public History and Digital Collections
 
-*Grace W., Jillian, Danielle*
+*Grace W., Danielle*
 
 _Readings_
 - Sheila A. Brennan, ["Public, First"](http://dhdebates.gc.cuny.edu/debates/text/83), *Debates in Digital Humanities 2016*.
 - Julia Falkowski, ["Custom collections content and generous interfaces"](https://mw2016.museumsandtheweb.com/paper/custom-collections-content-and-generous-interfaces/) *Museums and the Web 2016*.
 - Jennifer Hijazi, ["Is Instagram killing our museum culture or reinventing it?"](https://www.pbs.org/newshour/arts/is-instagram-killing-our-museum-culture-or-reinventing-it?) *PBS*, November 17, 2017.
+
+_Assignments_
+- Complete [Week 5 Python homework]({{site.baseurl}}/homework/week-05-homework).
 
 _In Class_
 - Using Omeka to build digital collections
@@ -113,7 +116,7 @@ _In Class_
 
 ### Week 9, 10/30: Narrative, Communication, and New Media
 
-*Angelica*
+*Angelica, Jillian*
 
 _Reading_
 - Rebecca Onion, ["Making History Go Viral"](https://slate.com/news-and-politics/2018/12/twitter-history-viral-threads-2018.html) *Slate* (11 Dec. 2018)
