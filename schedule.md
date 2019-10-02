@@ -69,7 +69,7 @@ _Assignments_
 - Complete [Week 5 Python homework]({{site.baseurl}}/homework/week-05-homework).
 
 _In Class_
-- Using Omeka to build digital collections
+- [Using Omeka]({{site.baseurl}}/week-05/week-05-omeka/)
 
 ### Week 6, 10/9: Texts
 
@@ -79,7 +79,7 @@ _Reading_
 - Ted Underwood, ["Seven ways humanists are using computers to understand text"](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) *The Stone and the Shell*, June 4, 2015.
 
 _Assignments_
-- Complete Week 6 Python homework.
+- Complete [Week 6 Python homework]({{site.baseurl}}/homework/week-06-homework).
 
 _In Class_
 - Using Python to work with text
