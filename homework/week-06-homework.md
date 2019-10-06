@@ -34,6 +34,7 @@ Let's do some basic analysis of Martha Ballard's diary entries for these two yea
 2. What is Ballard's longest entry that she wrote in 1804 or 1805?
 3. What is the shortest entry that she wrote?
 4. What is the average length of her entries in 1804 vs. 1805?
+    - Note: this is a tricky one that requires some thinking outside of the box or importing a library you haven't used yet - if you can't figure it out, feel free to skip it
 5. What was the weather in Maine exactly 215 years ago from *today*? The goal is to generate a print statement that just prints out the sentence from that particular entry containing the weather.
     - Use a `for` loop to go back through your data files
     - Use an `if` statement to locate the correct text file based on its filename
