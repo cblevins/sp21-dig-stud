@@ -82,7 +82,7 @@ _Assignments_
 - Complete [Week 6 Python homework]({{site.baseurl}}/homework/week-06-homework).
 
 _In Class_
-- Using Python to work with text
+- [Working with Digital Text]({{site.baseurl}}/week-06/week-06-texts)
 
 ### Week 7, 10/16: Visualization
 
