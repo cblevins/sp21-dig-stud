@@ -95,7 +95,6 @@ _Reading_
 _Assignments_
 - Download and install [Tableau Public](https://public.tableau.com/en-us/s/)
 - Tutorial: Miriam Posner, ["Getting started with Tableau Public"](http://miriamposner.com/classes/dh201w19/tutorials-guides/data-visualization/getting-started-with-tableau-public/) *Digital Humanities 201* (UCLA, Winter 2019).
-- Complete Week 7 Python homework
 
 _In Class_
 - Principles of data visualization 
