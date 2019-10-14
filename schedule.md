@@ -89,7 +89,7 @@ _In Class_
 *Claire and Grace P.*
 
 _Reading_
-- Nathan Yau, *Data Points: Visualization That Means Something*, Ch. 5: Visualizing with Clarity, pp. 201-240.
+- Nathan Yau, *Data Points: Visualization That Means Something*, Ch. 5: Visualizing with Clarity, pp. 201-240. (See Slack channel for PDF)
 - Catherine D'Ignazio and Lauren Klein, *Data Feminism* [Chapter 5: The Numbers Don’t Speak for Themselves](https://bookbook.pubpub.org/pub/6ui5n4vo)
 
 _Assignments_
