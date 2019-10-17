@@ -106,6 +106,7 @@ _In Class_
 _Reading_
 - Sarah Bond, ["How Is Digital Mapping Changing The Way We Visualize Racism and Segregation?"](https://www.forbes.com/sites/drsarahbond/2017/10/20/how-is-digital-mapping-changing-the-way-we-visualize-racism-and-segregation/) *Forbes*, October 20, 2017.
 - Andrew Wiseman, ["When Maps Lie"](https://www.citylab.com/design/2015/06/when-maps-lie/396761/) *CityLab*, June 25, 2015. 
+- Anne Kelly Knowles, Levi Westerveld, and Laura Strom, ["Inductive Visualization: A Humanistic Alternative to GIS"](https://doi.org/10.1080/2373566X.2015.1108831), *Geohumanities*, vol. 1, no. 2 (2015).
 
 _Assignments_
 - Tutorial: Miriam Posner, ["Create a map with Tableau"](http://miriamposner.com/classes/dh201w19/tutorials-guides/mapping/create-a-map-with-tableau/) *Digital Humanities 201* (UCLA, Winter 2019).
