@@ -112,7 +112,7 @@ _Assignments_
 - Tutorial: Miriam Posner, ["Create a map with Tableau"](http://miriamposner.com/classes/dh201w19/tutorials-guides/mapping/create-a-map-with-tableau/) *Digital Humanities 201* (UCLA, Winter 2019).
 
 _In Class_
-- Spatial data and putting things onto a map
+- Spatial Data and Mapping
 
 ### Week 9, 10/30: Narrative, Communication, and New Media
 
@@ -125,6 +125,10 @@ _Reading_
 
 _Assignments_
 - Download and install [Audacity](https://www.audacityteam.org/)
+- Come to class with: 
+    - 30-60 second "pitch" for your final project
+    - Ideas for topics & methods you're interested in delving into during Weeks 10 & 11.
+    - Headphones for your laptop
 
 _In Class_
 - Recording and editing podcasts
