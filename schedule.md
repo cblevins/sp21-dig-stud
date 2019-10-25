@@ -144,7 +144,7 @@ _In Class_
 ### Week 11, 11/13: Practicum
 
 ### Week 12, 11/20: Project Workshop
-*Note: Paul Farber from [Monument Lab](https://monumentlab.com/) will be visiting the beginning of class today*
+*Note: Class will end early today so that we can attend [Paul Farber's talk at Snell Library](https://camd.northeastern.edu/event/fall-lecture-series-paul-farbermonumental-process-and-power/) at 6:00PM.*
 
 ### ~~Week 13, 11/27~~ *No class, official holiday*
 
