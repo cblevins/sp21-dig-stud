@@ -131,7 +131,7 @@ _Assignments_
     - Headphones for your laptop
 
 _In Class_
-- Recording and editing podcasts
+- [Recording and Editing Podcasts]({{site.baseurl}}/week-09/week-09-podcasts)
 
 ## III. Putting it Together
 
