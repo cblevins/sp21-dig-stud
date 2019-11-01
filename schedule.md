@@ -141,7 +141,18 @@ _In Class_
 
 ### Week 10, 11/6: Practicum
 
+_Reading_
+- Explore Kate Bagnall and Tim Sherratt's [Invisible Australians](http://invisibleaustralians.org/) and then read ["A Life Reduced to Data"](http://discontents.com.au/a-life-reduced-to-data/) (August 25, 2016).
+- Hadley Wickham, ["Tidy Data"](https://vita.had.co.nz/papers/tidy-data.pdf)  *Journal of Statistical Software*, Vol. 59, Issue 10 (2014). (**just read p. 1-13**)
+- Ian Bogost, ["Welcome to the Age of Privacy Nihilism"](https://www.theatlantic.com/technology/archive/2018/08/the-age-of-privacy-nihilism-is-here/568198/), *The Atlantic* (August 23, 2018).
+
 ### Week 11, 11/13: Practicum
+
+_Reading_
+- Richard White, ["What is Spatial History?"](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29), *Stanford Spatial History Lab* (2010).
+- Harmony Bench and Kate Elswit, ["Dance Touring and Embodied Data: Some Approaches to Katherine Dunham’s Movement on the Move"](http://crdh.rrchnm.org/essays/v02-12-dance-touring-and-embodied-data/), *Current Research in Digital History*, Vol. 2 (2019).
+- Martha Hollander, ["The Imaginary Museum: Teaching Art History with Mobile Digital Technology"](http://www.digitalhumanities.org/dhq/vol/12/2/000390/000390.html) *Digital Humanities Quarterly*, 12, no. 2 (2018).
+
 
 ### Week 12, 11/20: Project Workshop
 *Note: Class will end early today so that we can attend [Paul Farber's talk at Snell Library](https://camd.northeastern.edu/event/fall-lecture-series-paul-farbermonumental-process-and-power/) at 6:00PM.*
