@@ -146,6 +146,9 @@ _Reading_
 - Hadley Wickham, ["Tidy Data"](https://vita.had.co.nz/papers/tidy-data.pdf)  *Journal of Statistical Software*, Vol. 59, Issue 10 (2014). (**just read p. 1-13**)
 - Ian Bogost, ["Welcome to the Age of Privacy Nihilism"](https://www.theatlantic.com/technology/archive/2018/08/the-age-of-privacy-nihilism-is-here/568198/), *The Atlantic* (August 23, 2018).
 
+_In Class_
+- [Small Group Hands-On Exercises]({{site.baseurl}}/week-10/week-10-hands-on)
+
 ### Week 11, 11/13: Practicum
 
 _Reading_
