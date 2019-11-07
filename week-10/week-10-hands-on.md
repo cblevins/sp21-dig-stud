@@ -34,6 +34,10 @@ I've located several exercises and tutorials for Python that will help you with 
 
 1. Ethan Reed and Brandon Walsh, [Working with CSV files](https://nbviewer.jupyter.org/github/humanitiesprogramming/humanitiesprogramming.github.io/blob/master/python/notebooks/working-with-csv.ipynb), *Introduction to Programming for Humanists*
 2. William J. Turkel and Adam Crymble, [Downloading Webpages with Python](https://programminghistorian.org/en/lessons/working-with-web-pages), *Programming Historian*
-2. [Python and Library of Congress's *Chronicling America* database](https://github.com/LibraryOfCongress/data-exploration/blob/master/ChronAm%20API%20Samples.ipynb)
-3. [Data Exploration: Accessing Images from the Library of Congress](https://github.com/LibraryOfCongress/data-exploration/blob/master/Accessing%20images%20for%20analysis.ipynb)
+3. [Python and Library of Congress's *Chronicling America* database](https://github.com/LibraryOfCongress/data-exploration/blob/master/ChronAm%20API%20Samples.ipynb)
+4. [Data Exploration: Accessing Images from the Library of Congress](https://github.com/LibraryOfCongress/data-exploration/blob/master/Accessing%20images%20for%20analysis.ipynb)
 
+### Network Analysis
+
+1. Marten Düring, [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources), *Programming Historian* - lighter-weight approach to networks using Palladio
+2. John Ladd, Jessica Otis, Christopher N. Warren, and Scott Weingart, [Exploring and Analyzing Network Data with Python](https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python), *Programming Historian* - more advanced network analysis using Python
