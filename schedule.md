@@ -156,6 +156,8 @@ _Reading_
 - Harmony Bench and Kate Elswit, ["Dance Touring and Embodied Data: Some Approaches to Katherine Dunham’s Movement on the Move"](http://crdh.rrchnm.org/essays/v02-12-dance-touring-and-embodied-data/), *Current Research in Digital History*, Vol. 2 (2019).
 - Martha Hollander, ["The Imaginary Museum: Teaching Art History with Mobile Digital Technology"](http://www.digitalhumanities.org/dhq/vol/12/2/000390/000390.html) *Digital Humanities Quarterly*, 12, no. 2 (2018).
 
+_In Class_
+- [Small Group Hands-On Exercises]({{site.baseurl}}/week-10/week-10-hands-on)
 
 ### Week 12, 11/20: Project Workshop
 *Note: Class will end early today so that we can attend [Paul Farber's talk at Snell Library](https://camd.northeastern.edu/event/fall-lecture-series-paul-farbermonumental-process-and-power/) at 6:00PM.*

@@ -20,9 +20,14 @@ This is for people who are interested in more robust spatial analysis: making an
 ### Time- and Map-based Narratives
 
 1. Hands-on tutorial on ArcGIS Story Maps with Bahare Sanaie-Movahed (in class on 11/6)
-2. [Tutorial on making a timeline with Timeline.js](({{site.baseurl}}/week-10/week-10-timeline))
+2. [Tutorial on making a timeline with Timeline.js]({{site.baseurl}}/week-10/week-10-timeline)
 3. JMU Digital Communication Consulting, ["Introduction to StoryMap"](https://www.youtube.com/watch?v=b_hKGk6sn5E)
 4. J. Kirby, [Neatline 101](https://publish.illinois.edu/commonsknowledge/2017/07/05/neatline-101-getting-started/) (Neatline is a plugin for Omeka that allows you to create map- and timeline-based narratives using an Omeka collection)
+
+### Omeka
+
+1. Miriam Posner and Megan Brett, ["Creating an Omeka Exhibit"](https://programminghistorian.org/en/lessons/creating-an-omeka-exhibit), *Programming Historian* (2016)
+2. The Albert M. Greenfield Digital Center for The History of Women’s Education ["Guide to Creating Omeka Exhibits"](https://docs.google.com/file/d/0B5_baj3C7PmNZXk0cWs3WTM0am8/edit?pli=1)
 
 ### Tableau
 
@@ -41,3 +46,8 @@ I've located several exercises and tutorials for Python that will help you with 
 
 1. Marten Düring, [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources), *Programming Historian* - lighter-weight approach to networks using Palladio
 2. John Ladd, Jessica Otis, Christopher N. Warren, and Scott Weingart, [Exploring and Analyzing Network Data with Python](https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python), *Programming Historian* - more advanced network analysis using Python
+
+### Topic Modeling
+
+1. Miriam Posner, ["Messing around with the Topic Modeling Tool"](http://miriamposner.com/classes/dh201w19/tutorials-guides/text-analysis/messing-around-with-the-topic-modeling-tool/)
+2. Miriam Posner & Andy Wallace, ["Very basic strategies for interpreting results from the Topic Modeling Tool"](https://miriamposner.com/blog/very-basic-strategies-for-interpreting-results-from-the-topic-modeling-tool/)
