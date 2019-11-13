@@ -116,7 +116,7 @@ _In Class_
 
 ### Week 9, 10/30: Narrative, Communication, and New Media
 
-*Angelica, Jillian*
+*Anjelica, Jillian*
 
 _Reading_
 - Rebecca Onion, ["Making History Go Viral"](https://slate.com/news-and-politics/2018/12/twitter-history-viral-threads-2018.html) *Slate* (11 Dec. 2018)

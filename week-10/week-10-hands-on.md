@@ -15,7 +15,7 @@ This is for people who are interested in more robust spatial analysis: making an
 1. ["Making a Map with QGIS"](http://fredgibbs.net/tutorials/qgis/making-a-map-with-qgis.html)
 2. ["Linking and Styling Data with QGIS"](http://fredgibbs.net/tutorials/qgis/linking-and-styling-data-with-qgis.html)
 3. ["Using Historic Maps with QGIS"](http://fredgibbs.net/tutorials/qgis/overlaying-historic-maps-with-qgis.html)
-
+4. For ArcGIS online, there are a few relevant lessons: ["Create a Map"](https://doc.arcgis.com/en/arcgis-online/get-started/quick-exercise-maps.htm), ["Explore spatial data"](https://doc.arcgis.com/en/arcgis-online/get-started/quick-exercise-explore-data.htm), ["Solve a spatial problem"](https://doc.arcgis.com/en/arcgis-online/get-started/quick-exercise-analysis.htm)
 
 ### Time- and Map-based Narratives
 
