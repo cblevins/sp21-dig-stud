@@ -20,7 +20,7 @@ This is for people who are interested in more robust spatial analysis: making an
 ### Time- and Map-based Narratives
 
 1. Hands-on tutorial on ArcGIS Story Maps with Bahare Sanaie-Movahed (in class on 11/6)
-2. [Tutorial on making a timeline with Timeline.js]({{site.baseurl}}/week-10/week-10-timeline)
+2. [Tutorial on making a timeline with Timeline.js]({{site.baseurl}}/week-10/timeline)
 3. JMU Digital Communication Consulting, ["Introduction to StoryMap"](https://www.youtube.com/watch?v=b_hKGk6sn5E)
 4. J. Kirby, [Neatline 101](https://publish.illinois.edu/commonsknowledge/2017/07/05/neatline-101-getting-started/) (Neatline is a plugin for Omeka that allows you to create map- and timeline-based narratives using an Omeka collection)
 
