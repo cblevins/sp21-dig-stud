@@ -3,26 +3,43 @@ layout: page
 title: Assignments
 ---
 
-**Participation**
+As stated in the [Course Philosophy]({{site.baseurl}}/), I will not be using a traditional grading scheme to evaluate your work. Instead I have outlined a set of baseline expectations that you need to meet to succeed in this class. I will notify you during the semester if I feel you are not meeting one or more of these expectations.
 
-You are expected to attend each class having completed the week's readings and/or tutorials and be prepared to discuss them. As part of that preparation, you will write 2-3 questions related to the week's theme and post these questions to the [course Slack channel](https://f19-dig-hist.slack.com/) by **midnight the night before class**. Please read each of your classmate's questions prior to the start of class. If you need to miss a class, notify me ahead of time and we will then come up with a plan or alternative assignment to catch you up on what you missed. 
+### Baseline Expectations
 
-**Project Example**
+- Carefully complete the assigned readings or tasks prior to the start of class 
+- Attend each class on time and prepared to discuss that day's topics and readings. There are 29 classes in the semester and I don't expect or require perfect attendance. You do, however, need to be contributing to the classroom community, which is not going to be possible if you miss too many classes. If you need to miss class, please notify Professor Blevins (you don't need to give me a reason) and review the material or workshops you might have missed to get caught up prior to the next class. 
+- Actively participate in class activities and discussions. For discussions, this means making observations and asking questions that help the class think together. For hands-on workshops, this means making a good-faith effort to complete the activity and helping your peers to do so as well if they are struggling.
+- Behave professionally and respectfully with each other. You can disagree and push each other to consider other perspectives, but bullying, intimidation, or discrimination will not be tolerated under any circumstances.
+- Complete all assignments described below either by the required due date or within the window of dates for completion. 
+- Take feedback from Professor Blevins and your classmates into account and make an effort to apply it to your assignments. I might ask you to revise and resubmit an assignment if I feel it is necessary.
+- Complete self-assessments during the semester, including a final self-assessment that reflects on what you learned during the semester and the grade you feel you should receive, due May 12th by 11:59PM. I will distribute more detailed instructions for self-assessments.
 
-Each week, one or two students will present a short overview of a real-world digtial history/humanities project related to the week's topic. You will provide a **SHORT** introduction to the project (3-5 minutes) and how it relates to the week's theme or readings. You are welcome to discuss its background, strengths or shortcomings, etc. but keep in mind that you do not have very much time. Plan out ahead of time exactly what you need to convey to your classmates so that they can understand the project and its relationship to the theme. If you would like to display any visuals (website, images, etc.) on the big screen, please send them over Slack prior to the start of class. 
+In addition to readings, hands-on homework, and in-class discussions and activities, I have given you a series of more formal assignments to complete. If you feel that one of these assignments is not going to be useful for you, I am open to having you do an alternative assignment of comparable size. You need to request this in advance in an email to me, along with ideas for what you are interested in doing in its place (I am happy to help you brainstorm ideas). These assignments are as follows:
 
-The goal of this assignment is two-fold. First, it will provide the class with a series of real-world examples of particular method or topic "in action." Second, in trying to find your project you will get exposed to a wider body of digital history research. To find projects, I suggest searching *Current Research in Digital History* ([2018](http://crdh.rrchnm.org/volume/2018/) and [2019](http://crdh.rrchnm.org/volume/2019/)) and abstracts from the Digital Humanities annual conference ([2018](https://dh2018.adho.org/en/abstracts/) and [2019](https://dh2019.adho.org/programme/book-of-abstracts/)).
+### Formal Assignments
 
-Please email or Slack DM me with the project you are thinking of doing at least **two days** before class so that I can approve it.
+#### [Zoom Presentation]({{site.baseurl}}/assignments/zoom-presentation)
+- Due in class on 2/3
+- Revised version due between 2/4 and 2/18
 
-**Homework Assignments**
+#### [Digital Hygiene Checklist and Reflection]({{site.baseurl}}/assignments/digital-hygiene)
+- Due Week 4-5. Send Professor Blevins the URL to your post.
 
-You will have regular homework assignments in addition to the weekly readings. You are expected to complete these and (when indicated) submit them to me. These are to help you practice the skills that you learn in class. I will not be grading these, but it is a chance for me to go through them and make sure everyone is understanding the concepts, tools, etc.
+#### [COVID-19 Digital Archive]({{site.baseurl}}/assignments/covid19-digital-archive)
+- Due during Week 6-7. Send Professor Blevins a URL to each of your posts.
 
-**Professionalization**
+#### [Data Exploration]({{site.baseurl}}/assignments/data-exploration)
+- Due during Weeks 9-10. Send Professor Blevins a URL to your post.
 
-As part of your participation in this class, I would like you to get to know the wider digital humanities community at Northeastern. Please attend at least *three digital humanities events on campus* (talks, brown bag lunches, etc.) sponsored by NULab or the Digital Scholarship Group.
+#### [Media Project]({{site.baseurl}}/assignments/media-project)
+- Due during Weeks 12-13. Send Professor Blevins a URL to your post.
 
-**Final Project**
+#### [Final Project]({{site.baseurl}}/assignments/final-project)
+- Final project draft and presentation due Week 16
+- Final project (revised) due Sunday, 5/9.
 
-In your final project, you be completing your own work of digital history. The particulars of the project are up to you, including its topic or content and the mode of analysis and interpretation. This project can be created collaboratively or individually, and I will be working with you over the course of the semester to develop a feasible project and plan for completion. My only requirement is that you: a) create a clear historical interpretation or narrative, and b) develop new technical skills - either by learning an unfamiliar method or by developing a substantially new level of expertise in a tool or technique with which you are already familiar. 
+#### [Self Assessments]({{site.baseurl}}/assignments/self-assessments)
+- Assessment #1 due Week 5
+- Assessment #2 due Week 10
+- Assessment #3 due Finals Week

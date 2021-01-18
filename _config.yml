@@ -1,11 +1,11 @@
 # Site settings
 title_left    : "Digital"
-title_right   : " History" # default: ""
-title         : "Digital Studies & Strategies" # default: ""
+title_right   : " Studies" # default: ""
+title         : "Digital Studies" # default: ""
 description   : "Course website for HIST 3260/5260"
 keywords      : 
 url           : "https://cblevins.github.io" # site url
-baseurl       : "/f19-dig-hist" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
+baseurl       : "/sp21-dig-stud" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
