@@ -20,11 +20,11 @@ In addition to readings, hands-on homework, and in-class discussions and activit
 ### Formal Assignments
 
 #### [Zoom Presentation]({{site.baseurl}}/assignments/zoom-presentation)
-- Due in class on 2/3
-- Revised version due between 2/4 and 2/18
+- Due in class on 2/3.
+- Revised version due during Weeks 3-4.
 
 #### [Digital Hygiene Checklist and Reflection]({{site.baseurl}}/assignments/digital-hygiene)
-- Due Week 4-5. Send Professor Blevins the URL to your post.
+- Due during Weeks 4-5. Send Professor Blevins the URL to your post.
 
 #### [COVID-19 Digital Archive]({{site.baseurl}}/assignments/covid19-digital-archive)
 - Due during Week 6-7. Send Professor Blevins a URL to each of your posts.
@@ -35,8 +35,11 @@ In addition to readings, hands-on homework, and in-class discussions and activit
 #### [Media Project]({{site.baseurl}}/assignments/media-project)
 - Due during Weeks 12-13. Send Professor Blevins a URL to your post.
 
+#### [HIST 5260 only: Project Review]({{site.baseurl}}/assignments/coming-soon)
+- Due on different classes during the semester.
+
 #### [Final Project]({{site.baseurl}}/assignments/final-project)
-- Final project draft and presentation due Week 16
+- Final project draft and presentation due Week 16.
 - Final project (revised) due Sunday, 5/9.
 
 #### [Self Assessments]({{site.baseurl}}/assignments/self-assessments)

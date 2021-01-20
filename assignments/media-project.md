@@ -1,8 +1,12 @@
 ---
 layout: page
-title: Media Project
+title: Project Review
 ---
 
-In this project you will take a similar approach as the Zoom Presentation, in which you will research and communicate how technology (broadly defined) has changed or otherwise influenced a specific aspect of society in the past five years. This time, you will be communicating your research through a different medium: through a visual poster, a mini "podcast" episode, or a short video. The topic needs to be different from you original Zoom presentation, but once again should have a clear message or interpretation about the technology's impact and use concrete, compelling examples to illustrate the change. The goal of this assignment is for you to, as much as possible, move away from a written style of communication and to experiment with how you can best use your chosen medium of communication to convey information. Your submission should include a post on your website sandbox that includes a short reflection on the process (how you approached it, challenges you ran into, strategies you used, etc.) along with a short bibliography of sources you consulted. 
+Note: only for graduate students signed up for HIST 5260.
 
-*Due during Weeks 12-13. Send Professor Blevins a URL to your post.*
+
+
+For one class during the semester, you will present a short overview of a real-world digital history/humanities/journalism project related to the week’s topic. You will provide a SHORT (5 minute) introduction to the project along with how it relates to the week’s theme or readings. You are welcome to discuss its background, strengths or shortcomings, etc. but keep in mind that you do not have very much time. Plan out ahead of time exactly what you need to convey to your classmates so that they can understand the project and its relationship to the theme for that day. The goal of this assignment is two-fold. First, it will provide the class with a series of real-world examples of particular method or topic “in action.” Second, in trying to find your project you will get exposed to a wider body of digital history research. Please email or Slack DM me with the project you are thinking of doing the week before class so that I can approve it.
+
+*Presentation due at the beginning of whatever class you've selected.*

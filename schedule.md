@@ -3,7 +3,7 @@ layout: page
 title: Schedule
 ---
 
-## The Basics
+## I. The Basics
 
 #### Wed., Jan. 20: Introductions
 
@@ -28,7 +28,7 @@ _In Class_
 _In Class_
 - File types, folder structures, servers, and navigating cPanel in Reclaim Hosting. 
 
-## Websites and Archives
+## II. Websites and Archives
 
 #### Mon., Feb. 1: Website Design 
 - Annotate in Hypothes.is:
@@ -73,9 +73,9 @@ _In Class_
 - TBD
 
 _In Class_
-- Class visit from [Matthew Mariner](https://library.auraria.edu/about/staff-directory/matthew-c-mariner), Digital Collections Manager at Auraria Library
+- Class visit from [Matthew Mariner](https://library.auraria.edu/about/staff-directory/matthew-c-mariner), Digital Collections Manager at Auraria Library to discuss digitization process
 
-## Data
+## III. Data
 
 #### Mon., Feb. 22: Making Data
 - Annotate in Hypothes.is:
@@ -95,7 +95,7 @@ _In Class_
 
 #### Mon., Mar. 1: Analyzing Data
 - Annotate in Hypothes.is:
-  - ["Chapter 5: The Numbers Don’t Speak for Themselves"](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/2) in Catherine D'Ignazio and Lauren Klein, *Data Feminism* (MIT Press, 2020)
+  - ["Chapter 6: The Numbers Don’t Speak for Themselves"](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/2) in Catherine D'Ignazio and Lauren Klein, *Data Feminism* (MIT Press, 2020)
   - Ted Underwood, ["Seven ways humanists are using computers to understand text"](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) *The Stone and the Shell*, June 4, 2015.
 
 _In Class_
@@ -125,16 +125,16 @@ _In Class_
 [comment]: # (- Brian Page and Eric Ross, ["Envisioning the Urban Past: GIS Reconstruction of a Lost Denver District"](https://www.frontiersin.org/articles/10.3389/fdigh.2015.00003/full), *Frontiers in Digital Humanities* (11 August 2015).)
  
 _In Class_
-- Understanding spatial data, making maps in Tableau Public
+- Discussion of spatial history and cartography, understanding spatial data, making maps in Tableau Public
 
-## Media
+## IV. Media
 
 #### Mon., Mar. 15: Images
 - Annotate:
   - Kate Crawford and Trevor Paglen, [“Excavating AI: The Politics of Training Sets for Machine Learning"](https://excavating.ai) *The AI Now Institute, NYU* (September 19, 2019)
 
 _In Class_
-- Working with image files and basic image editing
+- Discussion of computer vision and machine learning, working with image files and basic image editing
 
 #### Wed., Mar. 17: Graphic Design
 - Annotate:
@@ -147,7 +147,7 @@ _In Class_
 - Listen to: Kevin Roose, Andy Mills, Julia Longoria, and Sindhu Gnanasambandan, ["Episode 1: Wonderland"](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html) *Rabbit Hole* podcast, April 16, 2020.
 
 _In Class_
-- Workshop led by Connor Shearrer, IETS Support Specialist Creative Technologies for Auraria Library
+- Workshop led by Connor Shearrer, IETS Support Specialist Creative Technologies for Auraria Library on video files and editing 
 
 [comment]: # (- Taylor Arnold and Lauren Tilton, ["Distant viewing: analyzing large visual corpora"](https://academic-oup-com.aurarialibrary.idm.oclc.org/dsh/article/34/Supplement_1/i3/5694340) *Digital Scholarship in the Humanities*, Volume 34, Issue Supplement_1, December 2019.)
 
@@ -155,7 +155,7 @@ _In Class_
 - TBD
 
 _In Class_
-- Workshop led by Connor Shearrer, IETS Support Specialist Creative Technologies for Auraria Library
+- Workshop led by Connor Shearrer, IETS Support Specialist Creative Technologies for Auraria Library on video files and editing
  
 #### Mon., Mar. 29: Audio
 - Annotate:
@@ -172,7 +172,7 @@ _In Class_
 _In Class_
 - Q&A with [Abby Mullen](http://abbymullen.org/), George Mason University, creator of podcast *Consolation Prize*
  
-## Class Choice
+## V. Class Choice
 
 YOU will be in the driver’s seat in April. The class will vote on a topic(s) or method(s) that they would like to learn more about. This can consist of revisiting a topic (ex. “we want to know more about spatial history”) or exploring a brand-new one (ex. “we want to learn about machine learning”). I will then select readings and activities for these topics. 
 
@@ -182,7 +182,7 @@ YOU will be in the driver’s seat in April. The class will vote on a topic(s) o
 
 #### Mon., Apr. 12: TBD
 
-## Final Projects
+## VI. Final Projects
 
 #### Wed., Apr. 14: Project Consultations
 
