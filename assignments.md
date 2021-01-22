@@ -35,7 +35,7 @@ In addition to readings, hands-on homework, and in-class discussions and activit
 #### [Media Project]({{site.baseurl}}/assignments/media-project)
 - Due during Weeks 12-13. Send Professor Blevins a URL to your post.
 
-#### [HIST 5260 only: Project Review]({{site.baseurl}}/assignments/coming-soon)
+#### [HIST 5260 only: Project Review]({{site.baseurl}}/assignments/project-review)
 - Due on different classes during the semester.
 
 #### [Final Project]({{site.baseurl}}/assignments/final-project)
