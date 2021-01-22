@@ -12,7 +12,7 @@ title: Schedule
 - Sign up for Hypothes.is and join the class group (see Canvas announcement for instructions). See [Hypothes.is Quick Start Guide for Students](https://hypothes.is/quick-start-guide-for-students/).
 - Annotate the following with Hypothes.is (be sure to make your annotations in our class group `sp21-dig-stud` rather than private or fully public):
 	- This course website (write questions or clarifications about policies, assignments, etc., reactions to different topics, things you're dreading, things you're excited about, etc.)
-	- Becky Supiano, ["Grades Can Hinder Learning. What Should Professors Use Instead?"](https://www.chronicle.com/article/grades-can-hinder-learning-what-should-professors-use-instead) *The Chronicle of Higher Education* (July 19, 2019)
+	- Becky Supiano, ["Grades Can Hinder Learning. What Should Professors Use Instead?"](https://www-chronicle-com.aurarialibrary.idm.oclc.org/article/grades-can-hinder-learning-what-should-professors-use-instead) *The Chronicle of Higher Education* (July 19, 2019)
 	- Shea Swauger, ["Our Bodies Encoded: Algorithmic Test Proctoring in Higher Education"](https://hybridpedagogy.org/our-bodies-encoded-algorithmic-test-proctoring-in-higher-education/) *Hybrid Pedagogy* (April 20, 2020).
 
 _In Class_ 
