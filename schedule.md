@@ -55,7 +55,7 @@ _In Class_
 
 #### Wed., Feb. 10: Digital Archives
 - Annotate in Hypothes.is:
-  - Lara Putnam, ["The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast,"](https://doi.org/10.1093/ahr/121.2.377) *The American Historical Review*, Volume 121, Issue 2, 1 April 2016, pp. 377–402.
+  - Lara Putnam, ["The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast,"](https://academic-oup-com.aurarialibrary.idm.oclc.org/ahr/article/121/2/377/2581842) *The American Historical Review*, Volume 121, Issue 2, 1 April 2016, pp. 377–402.
 	- Samantha Thompson, ["Why Don't Archivists Digitize Everything?"](https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/) May 31, 2017.
 
 _In Class_
@@ -83,7 +83,7 @@ _In Class_
   - Sandhya Kambhampati, ["Cleaner, Smarter Spreadsheets Start with Structure"](https://source.opennews.org/articles/building-cleaner-smarter-spreadsheets/), *Source* (March 23, 2017)
 
 _In Class_
-- Data strutures, best practices for recording data in spreadsheets
+- Data structures, best practices for recording data in spreadsheets
 
 #### Wed., Feb. 24: Processing Data
 - Annotate in Hypothes.is:
@@ -108,9 +108,8 @@ _In Class_
 - Q&A with Alexis Baird, Director of Product Management at Thumbtack
 
 #### Mon., Mar. 8: Data Visualization: Charts
-- Annotate in Hypothes.is:
-  - Nathan Yau, *Data Points: Visualization That Means Something*, Ch. 5: Visualizing with Clarity, pp. 201-240. (See Slack channel for PDF)
-- Go through the following visualizations: 
+- Instead of annotating, I would like you to write a short post in the Slack `#readings` channel commenting on your reactions to the following readings/visualizations:
+  - "Ch. 5: Visualizing with Clarity" from Nathan Yau, *Data Points: Visualization That Means Something*, pp. 201-240. (see `#readings` channel for PDF)
   - Matt Korostoff, ["Wealth Shown to Scale"](https://mkorostoff.github.io/1-pixel-wealth/)
   - Watch first 13:20 of Neil Halloran, [*The Fallen of World War II*](http://www.fallen.io/ww2/) (2015).
 

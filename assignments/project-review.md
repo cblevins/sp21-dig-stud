@@ -9,4 +9,4 @@ At the beginning of one class during the semester, you will present a short over
 
 In addition to your presentation, you will write a **700-800 word post** in your Wordpress sandbox that offers a formal written review of the project. Make sure your post includes screenshots or other visuals that illustrate your point. You should distribute a URL to your post over Slack at the beginning of your presentation. 
 
-*Presentation due at the beginning of whicever class you've selected.*
+*Presentation and post due at the beginning of whichever class you've selected.*
