@@ -33,7 +33,7 @@ _In Class_
 #### Mon., Feb. 1: Website Design 
 - Annotate in Hypothes.is:
   - Ian Bogost, ["The Age of Privacy Nihilism is Here"](https://www.theatlantic.com/technology/archive/2018/08/the-age-of-privacy-nihilism-is-here/568198/) *The Atlantic* (August 23, 2018)
-- Follow [these instructions](({{site.baseurl}}/hands-on/install-wordpress)) to install a Wordpress site in a "sandbox" directory on Reclaim Hosting.
+- Follow [these instructions]({{site.baseurl}}/hands-on/install-wordpress) to install a Wordpress site in a "sandbox" directory on Reclaim Hosting.
 - Select a topic for your Zoom presentation and describe it in 1-2 sentences on the Slack #presentations channel
 - Either: make a LinkedIn Page and connect with Professor Blevins OR write an email to him explaining why you don't wish to do so
 
