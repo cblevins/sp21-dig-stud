@@ -26,7 +26,8 @@ _In Class_
 - Make sure you have a Google Account that you are willing to use for this class.
 
 _In Class_
-- File types, folder structures, servers, and navigating cPanel in Reclaim Hosting. 
+- File types, folder structures, servers, and navigating Reclaim Hosting. 
+- Hands-On: [Creating a "Sandbox" on Reclaim Hosting]({{site.baseurl}}/hands-on/reclaim-hosting-sandbox)
 
 ## II. Websites and Archives
 
