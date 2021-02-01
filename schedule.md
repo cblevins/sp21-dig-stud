@@ -45,6 +45,7 @@ _In Class_
 - Prepare to present your [Zoom Presentation]({{site.baseurl}}/assignments/zoom-presentation)
 
 _In Class_
+- Student Zoom Presentations and peer feedback
 
 #### Mon., Feb. 8: Digital History
 - Annotate in Hypothes.is:
