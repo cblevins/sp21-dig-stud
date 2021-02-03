@@ -47,11 +47,13 @@ _In Class_
 _In Class_
 - Student Zoom Presentations and peer feedback
 
+*Digital Hygiene assignment due 2/8-2/21*
+
 #### Mon., Feb. 8: Digital History
 - Annotate in Hypothes.is:
   - Sheila Brennan, [“Digital History”](https://inclusivehistorian.com/digital-history/) *The Inclusive Historian’s Handbook* (June 4, 2019)
-  - Jessica Marie Johnson, ["Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads"](https://doi.org/10.1215/01642472-7145658) *Social Text*, Vol. 36, No. 4 (2018).
-- Install a Wordpress site for your main, public-facing domain through Reclaim Hosting. Select a theme that you like and be sure to include some kind of landing or About page with a short bio and interests.
+  - Jessica Marie Johnson, ["Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads"](https://read-dukeupress-edu.aurarialibrary.idm.oclc.org/social-text/article/36/4%20(137)/57/137032/Markup-BodiesBlack-Life-Studies-and-Slavery-Death) *Social Text*, Vol. 36, No. 4 (2018).
+- Install a Wordpress site for your main, public-facing domain through Reclaim Hosting. Select a theme that you like and be sure to include some kind of landing or About page with a short bio and interests. Post the URL of your site to the `#assignments` channel in Slack.
 
 _In Class_
 - Q&A with [Caroline Klibanoff](https://carolineklibanoff.com/), Program Manager for Made by Us at the Smithsonian National Museum of American History.
@@ -78,7 +80,11 @@ _In Class_
 _In Class_
 - Class visit from [Matthew Mariner](https://library.auraria.edu/about/staff-directory/matthew-c-mariner), Digital Collections Manager at Auraria Library to discuss digitization process
 
+*First [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due this week by February 21st*
+
 ## III. Data
+
+*COVID-19 Digital Archive due 2/22-3/7*
 
 #### Mon., Feb. 22: Making Data
 - Annotate in Hypothes.is:
@@ -111,7 +117,7 @@ _In Class_
 - Q&A with Alexis Baird, Director of Product Management at Thumbtack
 
 #### Mon., Mar. 8: Data Visualization: Charts
-- Instead of annotating, I would like you to write a short post in the Slack `#readings` channel commenting on your reactions to the following readings/visualizations:
+- Instead of annotating, I would like you to write 2-3 discussion questions/reactions on the Slack `#readings` channel on the following readings/visualizations:
   - "Ch. 5: Visualizing with Clarity" from Nathan Yau, *Data Points: Visualization That Means Something*, pp. 201-240. (see `#readings` channel for PDF)
   - Matt Korostoff, ["Wealth Shown to Scale"](https://mkorostoff.github.io/1-pixel-wealth/)
   - Watch first 13:20 of Neil Halloran, [*The Fallen of World War II*](http://www.fallen.io/ww2/) (2015).
@@ -131,25 +137,27 @@ _In Class_
 
 ## IV. Media
 
+*Data Exploration due 3/15-3/28*
+
 #### Mon., Mar. 15: Images
-- Annotate:
+- Annotate in Hypothes.is:
   - Kate Crawford and Trevor Paglen, [“Excavating AI: The Politics of Training Sets for Machine Learning"](https://excavating.ai) *The AI Now Institute, NYU* (September 19, 2019)
 
 _In Class_
 - Discussion of computer vision and machine learning, working with image files and basic image editing
 
 #### Wed., Mar. 17: Graphic Design
-- Annotate:
-  - "Chapter 1: Visual Knowledge (or Graphesis): Is Drawing as Powerful as Computation?" in Johanna Drucker, *Visualization and Interpretation: Humanistic Approaches to Display* (MIT Press, 2020)
+- Write 2-3 discussion questions/reactions on the Slack `#readings` channel on: "Chapter 1: Visual Knowledge (or Graphesis): Is Drawing as Powerful as Computation?" in Johanna Drucker, *Visualization and Interpretation: Humanistic Approaches to Display* (MIT Press, 2020) (reading posted as PDF to #readings channel)
 
 _In Class_
 - Q&A with Guy McClellan, historian for the National Parks Service
 
-#### Mon., Mar. 22: Video
-- Listen to: Kevin Roose, Andy Mills, Julia Longoria, and Sindhu Gnanasambandan, ["Episode 1: Wonderland"](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html) *Rabbit Hole* podcast, April 16, 2020.
+hy
+- Write 2-3 discussion questions/reactions on the Slack `#readings` channel on the following podcast: Kevin Roose, Andy Mills, Julia Longoria, and Sindhu Gnanasambandan, ["Episode 1: Wonderland"](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html) *Rabbit Hole* podcast, April 16, 2020.
+
 
 _In Class_
-- Workshop led by Connor Shearrer, IETS Support Specialist Creative Technologies for Auraria Library on video files and editing 
+- Video files and editing
 
 [comment]: # (- Taylor Arnold and Lauren Tilton, ["Distant viewing: analyzing large visual corpora"](https://academic-oup-com.aurarialibrary.idm.oclc.org/dsh/article/34/Supplement_1/i3/5694340) *Digital Scholarship in the Humanities*, Volume 34, Issue Supplement_1, December 2019.)
 
@@ -157,10 +165,12 @@ _In Class_
 - TBD
 
 _In Class_
-- Workshop led by Connor Shearrer, IETS Support Specialist Creative Technologies for Auraria Library on video files and editing
+- Video files and editing
+
+*Second [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due this week by March 27th*
  
 #### Mon., Mar. 29: Audio
-- Annotate:
+- Write 2-3 discussion questions/reactions on the Slack `#readings` channel on the following:
   - Jennifer Miller, ["Have We Hit Peak Podcast?"](https://www.nytimes.com/2019/07/18/style/why-are-there-so-many-podcasts.html) *New York Times* (July 18, 2019)
   - Listen to the second half (starting at 14:15 min) of Nick Quah's interview with Catherine Saint Louis: ["What Does a Podcast Editor Do?"](https://omny.fm/shows/servant-of-pod-with-nick-quah/what-does-a-podcast-editor-do), *Servant of Pod* (August 5, 2020).
 - Download and install [Audacity](https://www.audacityteam.org/download/) on laptop and have it ready for class. Note: if you are using a Linux computer you might need to install the [LAME .mp3 encoder](https://manual.audacityteam.org/man/faq_installing_the_lame_mp3_encoder.html) 
@@ -169,7 +179,7 @@ _In Class_
 - Recording and editing audio with Audacity
 
 #### Wed., Mar. 31: Audio
-- Choose [one episode from the podcast *Consolation Prize*](https://consolationprize.rrchnm.org/category/episodes/) to listen to before class and write down at least two questions to ask its creator, Abby Mullen
+- Choose [one episode from the podcast *Consolation Prize*](https://consolationprize.rrchnm.org/category/episodes/) to listen to before class and post at least two questions you might want to ask its creator, Abby Mullen, to the `#readings` Slack channel. 
 
 _In Class_
 - Q&A with [Abby Mullen](http://abbymullen.org/), George Mason University, creator of podcast *Consolation Prize*
@@ -177,6 +187,8 @@ _In Class_
 ## V. Class Choice
 
 YOU will be in the driver’s seat in April. The class will vote on a topic(s) or method(s) that they would like to learn more about. This can consist of revisiting a topic (ex. “we want to know more about spatial history”) or exploring a brand-new one (ex. “we want to learn about machine learning”). I will then select readings and activities for these topics. 
+
+*Media Project due 4/5-4/18*
 
 #### Mon., Apr. 5: TBD
 
@@ -199,3 +211,7 @@ YOU will be in the driver’s seat in April. The class will vote on a topic(s) o
 #### Mon., May. 3: Final Project presentations
 
 #### Wed., May. 5: Final Project presentations
+
+*Final Project due May 9th*
+
+*Final [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due by May 12th*

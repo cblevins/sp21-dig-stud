@@ -7,4 +7,4 @@ You are going to be studying the COVID-19 Digital Archive in two parts. In Part 
 
 In Part Two of the assignment, submit your own archival artifact to the archive by clicking on "Share Your Story" (note: you can choose to remain anonymous). Then write a second post on your website sandbox from your own perspective, in 2021. Some questions to consider (just choose a few to focus on): What was it like to explore the archive? What worked well and what was difficult? Did you run into challenges in terms of uploading your story or assigning its metadata? What kinds of stories did you tend to find? What kinds of stories seemed to be missing? How did you decide what story to contribute? Were there any challenges to this process? Did you notice anything about the kind of metadata that was captured in the items? 
 
-*Due during Week 6-7. Send Professor Blevins a URL to each of your posts.*
+*Due during Week 6-7 (February 22-March 7). Send Professor Blevins a URL to each of your posts.*

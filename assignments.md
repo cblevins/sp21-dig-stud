@@ -21,28 +21,28 @@ In addition to readings, hands-on homework, and in-class discussions and activit
 
 #### [Zoom Presentation]({{site.baseurl}}/assignments/zoom-presentation)
 - Due in class on 2/3.
-- Revised version due during Weeks 3-4.
+- Revised version due during Weeks 3-4 (2/3-2/14).
 
 #### [Digital Hygiene Checklist and Reflection]({{site.baseurl}}/assignments/digital-hygiene)
-- Due during Weeks 4-5. Send Professor Blevins the URL to your post.
+- Due during Weeks 4-5 (2/8-2/21). 
 
 #### [COVID-19 Digital Archive]({{site.baseurl}}/assignments/covid19-digital-archive)
-- Due during Week 6-7. Send Professor Blevins a URL to each of your posts.
+- Due during Week 6-7 (2/22-3/7). 
 
 #### [Data Exploration]({{site.baseurl}}/assignments/data-exploration)
-- Due during Weeks 9-10. Send Professor Blevins a URL to your post.
+- Due during Weeks 9-10 (3/15-3/28). 
 
 #### [Media Project]({{site.baseurl}}/assignments/media-project)
-- Due during Weeks 12-13. Send Professor Blevins a URL to your post.
+- Due during Weeks 12-13 (4/5-4/18).
 
 #### [HIST 5260 only: Project Review]({{site.baseurl}}/assignments/project-review)
 - Due on different classes during the semester.
 
 #### [Final Project]({{site.baseurl}}/assignments/final-project)
-- Final project draft and presentation due Week 16.
+- Final project draft and presentation due Week 16 (5/3 or 5/5)
 - Final project (revised) due Sunday, 5/9.
 
 #### [Self Assessments]({{site.baseurl}}/assignments/self-assessments)
-- Assessment #1 due Week 5
-- Assessment #2 due Week 10
-- Assessment #3 due Finals Week
+- Assessment #1 due Week 5 (by Feb. 21st)
+- Assessment #2 due Week 10 (by Mar. 27th)
+- Assessment #3 due Finals Week (May 12th)
