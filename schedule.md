@@ -60,11 +60,12 @@ _In Class_
  
 #### Wed., Feb. 10: Digital Archives
 - Annotate in Hypothes.is:
-  - Lara Putnam, ["The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast,"](https://academic-oup-com.aurarialibrary.idm.oclc.org/ahr/article/121/2/377/2581842) *The American Historical Review*, Volume 121, Issue 2, 1 April 2016, pp. 377–402.
+  - ~~Lara Putnam, ["The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast,"](https://academic-oup-com.aurarialibrary.idm.oclc.org/ahr/article/121/2/377/2581842) *The American Historical Review*, Volume 121, Issue 2, 1 April 2016, pp. 377–402.~~
+  - Replaced above reading with: follow these instructions to [Install Omeka Classic]({{site.baseurl}}/hands-on/install-omeka) through your Reclaim Hosting account.
   - Samantha Thompson, ["Why Don't Archivists Digitize Everything?"](https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/) May 31, 2017.
 
 _In Class_
-- Understanding metadata and creating items in [Omeka]({{site.baseurl}}/hands-on/omeka-items)
+- Understanding metadata and creating items in 
 
 #### Mon., Feb. 15: Digital Collections
 - Annotate in Hypothes.is:
