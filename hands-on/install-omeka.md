@@ -12,6 +12,7 @@ To create your sandbox:
 - Go to `File Manager` and make sure you are in the `public_html` folder
 - Navigate to your `sandbox` folder.
 - Create a new folder inside the `sandbox` folder called `omeka`.
+- If you had installed privacy settings on the `sandbox` folder for an earlier week with a username and password, go back and remove these as sometimes this can mess up the installation.
 
 ## Install and Set Up Omeka
 

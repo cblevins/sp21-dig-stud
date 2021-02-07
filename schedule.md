@@ -53,7 +53,7 @@ _In Class_
 - Annotate in Hypothes.is:
   - Sheila Brennan, [“Digital History”](https://inclusivehistorian.com/digital-history/) *The Inclusive Historian’s Handbook* (June 4, 2019)
   - Jessica Marie Johnson, ["Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads"](https://read-dukeupress-edu.aurarialibrary.idm.oclc.org/social-text/article/36/4%20(137)/57/137032/Markup-BodiesBlack-Life-Studies-and-Slavery-Death) *Social Text*, Vol. 36, No. 4 (2018).
-- Install a Wordpress site for your main, public-facing domain through Reclaim Hosting. Select a theme that you like and be sure to include some kind of landing or About page with a short bio and interests. Post the URL of your site to the `#assignments` channel in Slack.
+- Finalize a Wordpress theme and its layout for your sandbox site. Add some kind of landing or About page with a short bio and interests. Post the URL of your site to the `#assignments` channel in Slack.
 
 _In Class_
 - Q&A with [Caroline Klibanoff](https://carolineklibanoff.com/), Program Manager for Made by Us at the Smithsonian National Museum of American History.
