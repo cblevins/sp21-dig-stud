@@ -65,7 +65,7 @@ _In Class_
   - Samantha Thompson, ["Why Don't Archivists Digitize Everything?"](https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/) May 31, 2017.
 
 _In Class_
-- Understanding metadata and creating items in 
+- Understanding metadata and creating items in Omeka.
 
 #### Mon., Feb. 15: Digital Collections
 - Annotate in Hypothes.is:
