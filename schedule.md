@@ -59,16 +59,16 @@ _In Class_
 - Q&A with [Caroline Klibanoff](https://carolineklibanoff.com/), Program Manager for Made by Us at the Smithsonian National Museum of American History.
  
 #### Wed., Feb. 10: Digital Archives
-- Annotate in Hypothes.is:
+- ~~Annotate in Hypothes.is:~~
   - ~~Lara Putnam, ["The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast,"](https://academic-oup-com.aurarialibrary.idm.oclc.org/ahr/article/121/2/377/2581842) *The American Historical Review*, Volume 121, Issue 2, 1 April 2016, pp. 377–402.~~
   - Replaced above reading with: follow these instructions to [Install Omeka Classic]({{site.baseurl}}/hands-on/install-omeka) through your Reclaim Hosting account.
-  - Samantha Thompson, ["Why Don't Archivists Digitize Everything?"](https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/) May 31, 2017.
+  - Post 1-2 questions, comments, or reactions to the following reading on the `#readings` Slack channel: Samantha Thompson, ["Why Don't Archivists Digitize Everything?"](https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/) May 31, 2017.
 
 _In Class_
 - Understanding metadata and creating items in Omeka.
 
 #### Mon., Feb. 15: Digital Collections
-- Annotate in Hypothes.is:
+- ~~Annotate in Hypothes.is:~~ Post discussion comments or questions to `readings` channel on Slack: 
   - Julia Falkowski, ["Custom collections content and generous interfaces"](https://mw2016.museumsandtheweb.com/paper/custom-collections-content-and-generous-interfaces/) *Museums and the Web 2016*.
   - Jennifer Hijazi, ["Is Instagram killing our museum culture or reinventing it?"](https://www.pbs.org/newshour/arts/is-instagram-killing-our-museum-culture-or-reinventing-it?) *PBS*, November 17, 2017.
 
