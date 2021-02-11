@@ -77,7 +77,7 @@ _In Class_
 
 #### Wed., Feb. 17: Digitization
 - Post discussion comments or questions to `readings` channel on Slack: 
-  - [Ana Parejo Vadillo interview with Brewster Kahle, founder of the Internet Archive](https://doi.org/10.16995/ntn.760) *19: Interdisciplinary Studies in the Long Nineteenth Century* 2015 (21).
+  - [Ana Parejo Vadillo interview with Brewster Kahle, founder of the Internet Archive](https://doi.org/10.16995/ntn.760) *19: Interdisciplinary Studies in the Long Nineteenth Century* 2015 (21). Note: you only need to read the interview, not the attached article from 1996.
   - Kim Christen, ["Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness"](https://www.kimchristen.com/wp-content/uploads/2015/07/christen6.2012.pdf), *International Journal of Communications* (2012)
 
 _In Class_
