@@ -76,10 +76,12 @@ _In Class_
 - [Making an Omeka Exhibit]({{site.baseurl}}/hands-on/omeka-exhibit)
 
 #### Wed., Feb. 17: Digitization
-- TBD
+- Post discussion comments or questions to `readings` channel on Slack: 
+  - [Ana Parejo Vadillo interview with Brewster Kahle, founder of the Internet Archive](https://doi.org/10.16995/ntn.760) *19: Interdisciplinary Studies in the Long Nineteenth Century* 2015 (21).
+  - Kim Christen, ["Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness"](https://www.kimchristen.com/wp-content/uploads/2015/07/christen6.2012.pdf), *International Journal of Communications* (2012)
 
 _In Class_
-- Class visit from [Matthew Mariner](https://library.auraria.edu/about/staff-directory/matthew-c-mariner), Digital Collections Manager at Auraria Library to discuss digitization process
+- Class visit from [Matthew Mariner](https://library.auraria.edu/about/staff-directory/matthew-c-mariner), Digital Collections Manager at Auraria Library to discuss digitization
 
 *First [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due this week by February 21st*
 
