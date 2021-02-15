@@ -73,7 +73,7 @@ _In Class_
   - Jennifer Hijazi, ["Is Instagram killing our museum culture or reinventing it?"](https://www.pbs.org/newshour/arts/is-instagram-killing-our-museum-culture-or-reinventing-it?) *PBS*, November 17, 2017.
 
 _In Class_
-- [Making an Omeka Exhibit]({{site.baseurl}}/hands-on/omeka-exhibit)
+- [Working with Omeka]({{site.baseurl}}/hands-on/omeka)
 
 #### Wed., Feb. 17: Digitization
 - Post discussion comments or questions to `readings` channel on Slack: 
