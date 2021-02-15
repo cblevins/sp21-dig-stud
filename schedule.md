@@ -95,6 +95,7 @@ _In Class_
   - Sandhya Kambhampati, ["Cleaner, Smarter Spreadsheets Start with Structure"](https://source.opennews.org/articles/building-cleaner-smarter-spreadsheets/), *Source* (March 23, 2017)
 
 _In Class_
+- Jaclyn project review
 - Data structures, best practices for recording data in spreadsheets
 
 #### Wed., Feb. 24: Processing Data
@@ -126,6 +127,7 @@ _In Class_
   - Watch first 13:20 of Neil Halloran, [*The Fallen of World War II*](http://www.fallen.io/ww2/) (2015).
 
 _In Class_
+- Teresa project review
 - Making charts in Tableau Public
 
 #### Wed., Mar. 10: Data Visualization: Maps 
@@ -136,6 +138,7 @@ _In Class_
 [comment]: # (- Brian Page and Eric Ross, ["Envisioning the Urban Past: GIS Reconstruction of a Lost Denver District"](https://www.frontiersin.org/articles/10.3389/fdigh.2015.00003/full), *Frontiers in Digital Humanities* (11 August 2015).)
  
 _In Class_
+- Scott project review
 - Discussion of spatial history and cartography, understanding spatial data, making maps in Tableau Public
 
 ## IV. Media
@@ -147,6 +150,7 @@ _In Class_
   - Kate Crawford and Trevor Paglen, [“Excavating AI: The Politics of Training Sets for Machine Learning"](https://excavating.ai) *The AI Now Institute, NYU* (September 19, 2019)
 
 _In Class_
+- TJ project review
 - Discussion of computer vision and machine learning, working with image files and basic image editing
 
 #### Wed., Mar. 17: Graphic Design
@@ -168,6 +172,7 @@ _In Class_
 - TBD
 
 _In Class_
+- Bianca project review
 - Video files and editing
 
 *Second [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due this week by March 27th*
@@ -179,6 +184,7 @@ _In Class_
 - Download and install [Audacity](https://www.audacityteam.org/download/) on laptop and have it ready for class. Note: if you are using a Linux computer you might need to install the [LAME .mp3 encoder](https://manual.audacityteam.org/man/faq_installing_the_lame_mp3_encoder.html) 
 
 _In Class_
+- Whitney project review
 - Recording and editing audio with Audacity
 
 #### Wed., Mar. 31: Audio
