@@ -75,7 +75,7 @@ _In Class_
 _In Class_
 - [Working with Omeka]({{site.baseurl}}/hands-on/omeka)
 
-#### Wed., Feb. 17: Digitization
+#### ~~Wed., Feb. 17: Digitization~~ *Class Postponed*
 - Post discussion comments or questions to `readings` channel on Slack: 
   - [Ana Parejo Vadillo interview with Brewster Kahle, founder of the Internet Archive](https://doi.org/10.16995/ntn.760) *19: Interdisciplinary Studies in the Long Nineteenth Century* 2015 (21). Note: you only need to read the interview, not the attached article from 1996.
   - Kim Christen, ["Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness"](https://www.kimchristen.com/wp-content/uploads/2015/07/christen6.2012.pdf), *International Journal of Communications* (2012)
@@ -90,16 +90,18 @@ _In Class_
 *COVID-19 Digital Archive due 2/22-3/7*
 
 #### Mon., Feb. 22: Making Data
-- Annotate in Hypothes.is:
+- Post discussion comments or questions to `readings` channel on Slack: 
   - Catherine D'Ignazio and Lauren F. Klein, ["Introduction: Why Data Science Needs Feminism"](https://data-feminism.mitpress.mit.edu/pub/frfa9szd) in *Data Feminism* (MIT Press, 2020).
   - Sandhya Kambhampati, ["Cleaner, Smarter Spreadsheets Start with Structure"](https://source.opennews.org/articles/building-cleaner-smarter-spreadsheets/), *Source* (March 23, 2017)
+- Please also read the following, which provides background for a historical source that we are going to be working with over the next several classes: 
+  - Joe D. Horse Capture, ["The Alcatraz Logbook: Signs of Red Power"](https://theautry.org/research/blog/alcatraz-logbook-signs-red-power) *The Autry Museum of the American West Blog* (October 12, 2020).
 
 _In Class_
 - Jaclyn project review
 - Data structures, best practices for recording data in spreadsheets
 
 #### Wed., Feb. 24: Processing Data
-- Annotate in Hypothes.is:
+- Post discussion comments or questions to `readings` channel on Slack: 
   - Katie Rawson and Trevor Muñoz, [“Against Cleaning”](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/07154de9-4903-428e-9c61-7a92a6f22e51) in *Debates in Digital Humanities 2019*
   - Christopher Groskopf, ["The Quartz Guide to Bad Data"](https://qz.com/572338/the-quartz-guide-to-bad-data/) *Quartz* (December 15, 2015).
 
