@@ -97,16 +97,17 @@ _In Class_
   - Joe D. Horse Capture, ["The Alcatraz Logbook: Signs of Red Power"](https://theautry.org/research/blog/alcatraz-logbook-signs-red-power) *The Autry Museum of the American West Blog* (October 12, 2020).
 
 _In Class_
-- Jaclyn project review
-- Data structures, best practices for recording data in spreadsheets
+- [Data structures and recording information in spreadsheets]({{site.baseurl}}/hands-on/making-data) 
 
 #### Wed., Feb. 24: Processing Data
 - Post discussion comments or questions to `readings` channel on Slack: 
   - Katie Rawson and Trevor Muñoz, [“Against Cleaning”](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/07154de9-4903-428e-9c61-7a92a6f22e51) in *Debates in Digital Humanities 2019*
-  - Christopher Groskopf, ["The Quartz Guide to Bad Data"](https://qz.com/572338/the-quartz-guide-to-bad-data/) *Quartz* (December 15, 2015).
+  - ~~Christopher Groskopf, ["The Quartz Guide to Bad Data"](https://qz.com/572338/the-quartz-guide-to-bad-data/) *Quartz* (December 15, 2015).~~
+- Input data from your assigned pages of the Alcatraz Logbook into the class Google Spreadsheet (see Slack `#in-class` channel for more details).
 
 _In Class_
-- Processing data, spreadsheet functions
+- Jaclyn project review
+- Processing data and spreadsheet functions
 
 #### Mon., Mar. 1: Analyzing Data
 - Annotate in Hypothes.is:
@@ -123,7 +124,7 @@ _In Class_
 - Q&A with Alexis Baird, Director of Product Management at Thumbtack
 
 #### Mon., Mar. 8: Data Visualization: Charts
-- Instead of annotating, I would like you to write 2-3 discussion questions/reactions on the Slack `#readings` channel on the following readings/visualizations:
+- Post discussion comments or questions to `readings` channel on Slack: 
   - "Ch. 5: Visualizing with Clarity" from Nathan Yau, *Data Points: Visualization That Means Something*, pp. 201-240. (see `#readings` channel for PDF)
   - Matt Korostoff, ["Wealth Shown to Scale"](https://mkorostoff.github.io/1-pixel-wealth/)
   - Watch first 13:20 of Neil Halloran, [*The Fallen of World War II*](http://www.fallen.io/ww2/) (2015).
