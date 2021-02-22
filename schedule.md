@@ -130,7 +130,7 @@ _In Class_
   - Watch first 13:20 of Neil Halloran, [*The Fallen of World War II*](http://www.fallen.io/ww2/) (2015).
 
 _In Class_
-- Teresa project review
+- Scott project review
 - Making charts in Tableau Public
 
 #### Wed., Mar. 10: Data Visualization: Maps 
@@ -141,7 +141,7 @@ _In Class_
 [comment]: # (- Brian Page and Eric Ross, ["Envisioning the Urban Past: GIS Reconstruction of a Lost Denver District"](https://www.frontiersin.org/articles/10.3389/fdigh.2015.00003/full), *Frontiers in Digital Humanities* (11 August 2015).)
  
 _In Class_
-- Scott project review
+- Teresa project review
 - Discussion of spatial history and cartography, understanding spatial data, making maps in Tableau Public
 
 ## IV. Media
