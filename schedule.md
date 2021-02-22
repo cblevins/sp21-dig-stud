@@ -103,7 +103,6 @@ _In Class_
 - Post discussion comments or questions to `readings` channel on Slack: 
   - Katie Rawson and Trevor Muñoz, [“Against Cleaning”](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/07154de9-4903-428e-9c61-7a92a6f22e51) in *Debates in Digital Humanities 2019*
   - ~~Christopher Groskopf, ["The Quartz Guide to Bad Data"](https://qz.com/572338/the-quartz-guide-to-bad-data/) *Quartz* (December 15, 2015).~~
-- Input data from your assigned pages of the Alcatraz Logbook into the class Google Spreadsheet (see Slack `#in-class` channel for more details).
 
 _In Class_
 - Jaclyn project review
