@@ -106,15 +106,14 @@ _In Class_
 
 _In Class_
 - Jaclyn project review
-- Processing data and spreadsheet functions
+- Transcribing data from Alcatraz Logbook
 
 #### Mon., Mar. 1: Analyzing Data
 - Annotate in Hypothes.is:
   - ["Chapter 6: The Numbers Don’t Speak for Themselves"](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/2) in Catherine D'Ignazio and Lauren Klein, *Data Feminism* (MIT Press, 2020)
-  - Ted Underwood, ["Seven ways humanists are using computers to understand text"](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) *The Stone and the Shell*, June 4, 2015.
 
 _In Class_
-- Text analysis with Voyant
+- Processing data and spreadsheet functions
 
 #### Wed., Mar. 3: Data Science
 - Reading TBD
