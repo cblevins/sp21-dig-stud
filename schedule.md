@@ -109,8 +109,9 @@ _In Class_
 - Transcribing data from Alcatraz Logbook
 
 #### Mon., Mar. 1: Analyzing Data
-- Annotate in Hypothes.is:
+- Either annotate in Hypothes.is OR post discussion comments/question to Slack for:
   - ["Chapter 6: The Numbers Don’t Speak for Themselves"](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/2) in Catherine D'Ignazio and Lauren Klein, *Data Feminism* (MIT Press, 2020)
+- Transcribe the remainder of your assigned page from the Alcatraz Logbook (see my post in `#general` Slack channel for more information). 
 
 _In Class_
 - Processing data and spreadsheet functions
