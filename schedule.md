@@ -117,7 +117,10 @@ _In Class_
 - Processing data and spreadsheet functions
 
 #### Wed., Mar. 3: Data Science
-- Reading TBD
+- Either annotate in Hypothes.is OR post discussion comments/question to Slack for:
+  - Benjamin Pimentel, ["Dear Liberal Arts Major: STEM Companies Need Your Skills to Grow"](https://www.edsurge.com/news/2019-02-25-dear-liberal-arts-major-stem-companies-need-your-skills-to-grow) *EdSurge* (February 25, 2019)
+  - Paul Musgrave, ["Plato and Proust can’t save Silicon Valley"](https://www.washingtonpost.com/outlook/2019/08/15/plato-proust-cant-save-silicon-valley/) *Washington Post* (August 15, 2019)
+  - Video: ["Data Analyst vs Data Engineer vs Data Scientist"](https://www.youtube.com/watch?v=HmHWc8Zw1Dk) (April 12, 2020)
 
 _In Class_
 - Q&A with Alexis Baird, Director of Product Management at Thumbtack
