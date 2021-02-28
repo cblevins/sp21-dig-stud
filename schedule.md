@@ -164,9 +164,8 @@ _In Class_
 _In Class_
 - Q&A with Guy McClellan, historian for the National Parks Service
 
-hy
+#### Mon., Mar. 22: Video
 - Write 2-3 discussion questions/reactions on the Slack `#readings` channel on the following podcast: Kevin Roose, Andy Mills, Julia Longoria, and Sindhu Gnanasambandan, ["Episode 1: Wonderland"](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html) *Rabbit Hole* podcast, April 16, 2020.
-
 
 _In Class_
 - Video files and editing
