@@ -167,7 +167,8 @@ _In Class_
 - Q&A with Guy McClellan, historian for the National Parks Service
 
 #### Mon., Mar. 22: Video
-- Write 2-3 discussion questions/reactions on the Slack `#readings` channel on the following podcast: Kevin Roose, Andy Mills, Julia Longoria, and Sindhu Gnanasambandan, ["Episode 1: Wonderland"](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html) *Rabbit Hole* podcast, April 16, 2020.
+- Write 2-3 discussion questions/reactions on the Slack `#readings` channel on the following podcast: 
+  - Kevin Roose, Andy Mills, Julia Longoria, and Sindhu Gnanasambandan, ["Episode 1: Wonderland"](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html) *Rabbit Hole* podcast, April 16, 2020.
 
 _In Class_
 - Video files and editing
@@ -175,7 +176,9 @@ _In Class_
 [comment]: # (- Taylor Arnold and Lauren Tilton, ["Distant viewing: analyzing large visual corpora"](https://academic-oup-com.aurarialibrary.idm.oclc.org/dsh/article/34/Supplement_1/i3/5694340) *Digital Scholarship in the Humanities*, Volume 34, Issue Supplement_1, December 2019.)
 
 #### Wed., Mar. 24: Video
-- TBD
+- Write 2-3 discussion questions/reactions on the Slack `#readings` channel on: 
+  - Renée DiResta, ["The Supply of Disinformation Will Soon Be Infinite"](https://www.theatlantic.com/ideas/archive/2020/09/future-propaganda-will-be-computer-generated/616400/) *The Atlantic* (September 20, 2020).
+  - Glance through MyHeritage's page for its ["Deep Nostalgia" tool](https://www.myheritage.com/deep-nostalgia) and then read Marisa Parhma's [Twitter thread](https://twitter.com/amplify285/status/1366039719499415554) on it.
 
 _In Class_
 - Bianca project review
