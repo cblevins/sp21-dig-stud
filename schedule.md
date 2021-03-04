@@ -126,6 +126,7 @@ _In Class_
 - Q&A with Alexis Baird, Director of Product Management at Thumbtack
 
 #### Mon., Mar. 8: Data Visualization: Charts
+- [Install Tableau Public](https://public.tableau.com/en-us/s/download/) on your computer
 - Post discussion comments or questions to `readings` channel on Slack: 
   - "Ch. 5: Visualizing with Clarity" from Nathan Yau, *Data Points: Visualization That Means Something*, pp. 201-240. (see `#readings` channel for PDF)
   - Matt Korostoff, ["Wealth Shown to Scale"](https://mkorostoff.github.io/1-pixel-wealth/)
