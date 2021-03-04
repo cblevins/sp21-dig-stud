@@ -137,7 +137,7 @@ _In Class_
 - Making charts in Tableau Public
 
 #### Wed., Mar. 10: Data Visualization: Maps 
-- Annotate in Hypothes.is:
+- Annotate in Hypothes.is or post discussion comments to `readings` channel on Slack:
   - Sarah Bond, ["How Is Digital Mapping Changing The Way We Visualize Racism and Segregation?"](https://www.forbes.com/sites/drsarahbond/2017/10/20/how-is-digital-mapping-changing-the-way-we-visualize-racism-and-segregation/) *Forbes*, October 20, 2017.
   - Andrew Wiseman, ["When Maps Lie"](https://www.citylab.com/design/2015/06/when-maps-lie/396761/) *CityLab*, June 25, 2015. 
 
@@ -152,7 +152,7 @@ _In Class_
 *Data Exploration due 3/15-3/28*
 
 #### Mon., Mar. 15: Images
-- Annotate in Hypothes.is:
+- Annotate in Hypothes.is or post discussion comments to `readings` channel on Slack:
   - Kate Crawford and Trevor Paglen, [“Excavating AI: The Politics of Training Sets for Machine Learning"](https://excavating.ai) *The AI Now Institute, NYU* (September 19, 2019)
 
 _In Class_
@@ -160,7 +160,8 @@ _In Class_
 - Discussion of computer vision and machine learning, working with image files and basic image editing
 
 #### Wed., Mar. 17: Graphic Design
-- Write 2-3 discussion questions/reactions on the Slack `#readings` channel on: "Chapter 1: Visual Knowledge (or Graphesis): Is Drawing as Powerful as Computation?" in Johanna Drucker, *Visualization and Interpretation: Humanistic Approaches to Display* (MIT Press, 2020) (reading posted as PDF to #readings channel)
+- Write 2-3 discussion questions/reactions on the Slack `#readings` channel on: 
+  - "Chapter 1: Visual Knowledge (or Graphesis): Is Drawing as Powerful as Computation?" in Johanna Drucker, *Visualization and Interpretation: Humanistic Approaches to Display* (MIT Press, 2020) (reading posted as PDF to `#readings` channel)
 
 _In Class_
 - Q&A with Guy McClellan, historian for the National Parks Service
