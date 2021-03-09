@@ -208,7 +208,10 @@ YOU will be in the driver’s seat in April. The class will vote on a topic(s) o
 
 *Media Project due 4/5-4/18*
 
-#### Mon., Apr. 5: TBD
+#### Mon., Apr. 5: Digitization (Rescheduled)
+
+_In Class_
+- Class visit from [Matthew Mariner](https://library.auraria.edu/about/staff-directory/matthew-c-mariner), Digital Collections Manager at Auraria Library to discuss digitization
 
 #### Wed., Apr. 7: TBD
 
