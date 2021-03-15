@@ -151,20 +151,21 @@ _In Class_
 
 *Data Exploration due 3/15-3/28*
 
-#### Mon., Mar. 15: Images
+#### ~~Mon., Mar. 15: Images~~ *University-wide class cancellation due to weather*
 - Annotate in Hypothes.is or post discussion comments to `readings` channel on Slack:
-  - Kate Crawford and Trevor Paglen, [“Excavating AI: The Politics of Training Sets for Machine Learning"](https://excavating.ai) *The AI Now Institute, NYU* (September 19, 2019)
+  - *Reading moved to Weds. 3/17*: Kate Crawford and Trevor Paglen, [“Excavating AI: The Politics of Training Sets for Machine Learning"](https://excavating.ai) *The AI Now Institute, NYU* (September 19, 2019)
 
 _In Class_
-- TJ project review
 - Discussion of computer vision and machine learning, working with image files and basic image editing
 
-#### Wed., Mar. 17: Graphic Design
+#### Wed., Mar. 17: Images / Graphic Design
 - Write 2-3 discussion questions/reactions on the Slack `#readings` channel on: 
-  - "Chapter 1: Visual Knowledge (or Graphesis): Is Drawing as Powerful as Computation?" in Johanna Drucker, *Visualization and Interpretation: Humanistic Approaches to Display* (MIT Press, 2020) (reading posted as PDF to `#readings` channel)
+  - *Reading moved from Mon. 3/15*: Kate Crawford and Trevor Paglen, [“Excavating AI: The Politics of Training Sets for Machine Learning"](https://excavating.ai) *The AI Now Institute, NYU* (September 19, 2019)
+  - ~~"Chapter 1: Visual Knowledge (or Graphesis): Is Drawing as Powerful as Computation?" in Johanna Drucker, *Visualization and Interpretation: Humanistic Approaches to Display* (MIT Press, 2020) (reading posted as PDF to `#readings` channel)~~ 
 
 _In Class_
 - Q&A with Guy McClellan, historian for the National Parks Service
+- TJ project review
 
 #### Mon., Mar. 22: Video
 - Write 2-3 discussion questions/reactions on the Slack `#readings` channel on the following podcast: 
