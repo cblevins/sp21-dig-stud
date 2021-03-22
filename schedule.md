@@ -173,7 +173,7 @@ _In Class_
 - [Install Shotcut on your computer](http://write.flossmanuals.net/introduction-to-video-editing-with-shotcut/installation/)
 
 _In Class_
-- Video files and editing
+- Introduction to Shotcut
 
 [comment]: # (- Taylor Arnold and Lauren Tilton, ["Distant viewing: analyzing large visual corpora"](https://academic-oup-com.aurarialibrary.idm.oclc.org/dsh/article/34/Supplement_1/i3/5694340) *Digital Scholarship in the Humanities*, Volume 34, Issue Supplement_1, December 2019.)
 
@@ -181,10 +181,11 @@ _In Class_
 - Write 2-3 discussion questions/reactions on the Slack `#readings` channel on: 
   - Renée DiResta, ["The Supply of Disinformation Will Soon Be Infinite"](https://www.theatlantic.com/ideas/archive/2020/09/future-propaganda-will-be-computer-generated/616400/) *The Atlantic* (September 20, 2020).
   - Glance through MyHeritage's page for its ["Deep Nostalgia" tool](https://www.myheritage.com/deep-nostalgia) and then read Marisa Parhma's [Twitter thread](https://twitter.com/amplify285/status/1366039719499415554) on it.
+- Record a **30-second elevator pitch video** for a future CU Denver student to convince them to take this class next year. You do not need to plan this out in depth and you can be as silly as you want - just make sure it is under thirty seconds. Use [Zoom to record the video](https://support.zoom.us/hc/en-us/articles/201362473-Local-recording) and then upload it as `yourfirstname-yourlastname.mp4` (`cameron-blevins.mp4`) **to the #in-class Slack channel by 1PM.** We will be using these during class to learn how to edit videos in Shotcut. 
 
 _In Class_
 - Bianca project review
-- Video files and editing
+- Video files and editing with Shotcut
 
 *[Data Exploration]({{site.baseurl}}/assignments/data-exploration) due by March 28th*
  
