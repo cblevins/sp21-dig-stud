@@ -44,5 +44,5 @@ In addition to readings, hands-on homework, and in-class discussions and activit
 
 #### [Self Assessments]({{site.baseurl}}/assignments/self-assessments)
 - Assessment #1 due Week 5 (by Feb. 21st)
-- Assessment #2 due Week 10 (by Mar. 27th)
+- Assessment #2 due Week 11 (by April 2nd)
 - Assessment #3 due Finals Week (May 12th)

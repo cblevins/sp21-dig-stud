@@ -186,7 +186,7 @@ _In Class_
 - Bianca project review
 - Video files and editing
 
-*[Data Exploration]({{site.baseurl}}/assignments/data-exploration) due by March 27th*
+*[Data Exploration]({{site.baseurl}}/assignments/data-exploration) due by March 28th*
  
 #### Mon., Mar. 29: Audio
 - Write 2-3 discussion questions/reactions on the Slack `#readings` channel on the following:
