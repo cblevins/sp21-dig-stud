@@ -170,6 +170,7 @@ _In Class_
 #### Mon., Mar. 22: Video
 - Write 2-3 discussion questions/reactions on the Slack `#readings` channel on the following podcast: 
   - Kevin Roose, Andy Mills, Julia Longoria, and Sindhu Gnanasambandan, ["Episode 1: Wonderland"](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html) *Rabbit Hole* podcast, April 16, 2020.
+- [Install Shotcut on your computer](http://write.flossmanuals.net/introduction-to-video-editing-with-shotcut/installation/)
 
 _In Class_
 - Video files and editing
@@ -185,7 +186,7 @@ _In Class_
 - Bianca project review
 - Video files and editing
 
-*Second [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due this week by March 27th*
+*[Data Exploration]({{site.baseurl}}/assignments/data-exploration) due by March 27th*
  
 #### Mon., Mar. 29: Audio
 - Write 2-3 discussion questions/reactions on the Slack `#readings` channel on the following:
@@ -196,6 +197,8 @@ _In Class_
 _In Class_
 - Whitney project review
 - Recording and editing audio with Audacity
+
+*Second [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due this week by Friday April 2nd*
 
 #### Wed., Mar. 31: Audio
 - Choose [one episode from the podcast *Consolation Prize*](https://consolationprize.rrchnm.org/category/episodes/) to listen to before class and post at least two questions you might want to ask its creator, Abby Mullen, to the `#readings` Slack channel. 
