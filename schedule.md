@@ -199,10 +199,10 @@ _In Class_
 - Whitney project review
 - Recording and editing audio with Audacity
 
-*Second [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due this week by Friday April 2nd*
+*Second [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due Friday April 2nd*
 
 #### Wed., Mar. 31: Audio
-- Choose [one episode from the podcast *Consolation Prize*](https://consolationprize.rrchnm.org/category/episodes/) to listen to before class and post at least two questions you might want to ask its creator, Abby Mullen, to the `#readings` Slack channel. 
+- Listen to [Episode 8: Eden to Ashes](https://consolationprize.rrchnm.org/2021/02/16/episode-8-eden-to-ashes/) from the podcast *Consolation Prize* and post at least two questions you might want to ask its creator, Abby Mullen, to the `#readings` Slack channel. 
 
 _In Class_
 - Q&A with [Abby Mullen](http://abbymullen.org/), George Mason University, creator of podcast *Consolation Prize*
