@@ -185,7 +185,7 @@ _In Class_
 
 _In Class_
 - Bianca project review
-- Video files and editing with Shotcut
+- [Video files and editing with Shotcut]({{site.baseurl}}/hands-on/video-editing)
 
 *[Data Exploration]({{site.baseurl}}/assignments/data-exploration) due by March 28th*
  
