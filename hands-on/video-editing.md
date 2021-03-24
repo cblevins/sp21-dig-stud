@@ -23,16 +23,16 @@ Your goal is to create a short video using the above building blocks that includ
 - Create and save a new project in Shotcut
 - Open the three video files, image file, and audio file and add them to your project's playlist. Hint: <http://write.flossmanuals.net/introduction-to-video-editing-with-shotcut/getting-started-opening-a-file-and-adding-it-to-the-playlist-and-timeline/>
 - Add the image file to your timeline and have it play for the first 5 seconds of your video. Hint: <https://youtu.be/JtsB2iZRb9c?t=283>
-- Add the audio file so that it plays during those opening 5 seconds. Hint: <https://www.youtube.com/watch?v=JpuGsMC2BhQ>
+- Add the audio file so that it plays during those opening 5 seconds and then stops (you'll want to "trim" it in the timeline). Hint: <https://www.youtube.com/watch?v=JpuGsMC2BhQ>
 - "Trim" a few seconds from the beginning and/or end of at least one of your classmates' videos (ex. if there are several seconds of awkward silence at the beginning). Hint: <https://www.youtube.com/watch?v=lxiJRpcnF3I>
-- End your video with 2 seconds of the course poster again.
+- End your video with 5 seconds of the course poster again.
 - Export your video as an .mp4 file named `yourfirstname-yourlastname-promo.mp4` and upload it to the #in-class Slack channel.
 
 **Bonus:**
 
 - Add transitions between the different sections of your video, such as and the opening image and in between your three videos
-- Add text overlaid onto one of the videos
-- Add an audio fade-in and fade-out
+- Overlay some text onto one of the videos
+- Add an audio fade-in and fade-out at the beginning
 
 
 
