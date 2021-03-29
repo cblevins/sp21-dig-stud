@@ -35,6 +35,5 @@ Individually watch 5:00-11:15 of Pat Flynn's ["How to Record and Edit a Podcast 
 ### General Podcast Resources
 
 - [Audacity Interface Guide](https://wit.audacityteam.org/)
-- [Northeastern Library Subject Guide for Podcasting](https://subjectguides.lib.neu.edu/c.php?g=593889&p=4920260)
 - [YouTube Library Sound Effects](https://www.youtube.com/audiolibrary/soundeffects)
 - [Free Music Archive](https://freemusicarchive.org/)
