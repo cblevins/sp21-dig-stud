@@ -197,7 +197,7 @@ _In Class_
 
 _In Class_
 - Whitney project review
-- Recording and editing audio with Audacity
+- [Recording and editing audio with Audacity]({{site.baseurl}}/hands-on/audio-editing)
 
 *Second [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due Friday April 2nd*
 
