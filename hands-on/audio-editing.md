@@ -8,7 +8,7 @@ title: Audio Editing
 You will be working in pairs today to learn how to use Audacity. By the end of the class, the goal is to have a roughly 2-3 minute recording where the two of you discuss ideas for what you'd like to as a class during Weeks 12 and 13, interspersed with music and sound effects. It should incorporate the following components:
 
 - Brief musical introduction
-- Audio of your conversation
+- Main audio of your conversation
 - A personal sign-off
 
 ### Part I: Recording 
@@ -30,7 +30,7 @@ Individually watch 5:00-11:15 of Pat Flynn's ["How to Record and Edit a Podcast 
 - Use the [Envelope Tool](https://manual.audacityteam.org/man/envelope_tool.html) tool to fade the song out as it leads up to the conversation.
 - [Record a new track](https://manual.audacityteam.org/man/recording.html#newtrack) individually in Audacity where you "sign off" and say goodbye to your listeners, then use the [Time Shift Tool](https://manual.audacityteam.org/man/time_shift_tool.html) to position that track at the end of your combined recording.
 - Bonus: overlay a sound effect from [YouTube Library Sound Effects](https://www.youtube.com/audiolibrary/soundeffects) somewhere in your recording.
-- Export your edited audio as an .mp3 file and upload it to the #in-class Slack channel. 
+- [Export your edited audio](https://manual.audacityteam.org/man/file_menu_export.html) as an .mp3 file and upload it to the #in-class Slack channel. 
 
 ### General Podcast Resources
 

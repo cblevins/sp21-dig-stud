@@ -211,14 +211,22 @@ _In Class_
 
 YOU will be in the driver’s seat in April. The class will vote on a topic(s) or method(s) that they would like to learn more about. This can consist of revisiting a topic (ex. “we want to know more about spatial history”) or exploring a brand-new one (ex. “we want to learn about machine learning”). I will then select readings and activities for these topics. 
 
-*Media Project due 4/5-4/18*
-
 #### Mon., Apr. 5: Digitization (Rescheduled)
+- Review readings from cancelled class in February:
+ - [Ana Parejo Vadillo interview with Brewster Kahle, founder of the Internet Archive](https://doi.org/10.16995/ntn.760) *19: Interdisciplinary Studies in the Long Nineteenth Century* 2015 (21). Note: you only need to read the interview, not the attached article from 1996.
+  - Kim Christen, ["Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness"](https://www.kimchristen.com/wp-content/uploads/2015/07/christen6.2012.pdf), *International Journal of Communications* (2012)
 
 _In Class_
 - Class visit from [Matthew Mariner](https://library.auraria.edu/about/staff-directory/matthew-c-mariner), Digital Collections Manager at Auraria Library to discuss digitization
 
-#### Wed., Apr. 7: TBD
+#### Wed., Apr. 7: Data Analysis and Visualization
+- Read the following related to the project "Land Grab Universities" and post 2-3 discussion questions on the `#readings` channel on Slack:
+  - [Twitter thread](https://twitter.com/highcountrynews/status/1376957603893411851) describing the project and its reception over the past year.
+  - [The README file](https://github.com/HCN-Digital-Projects/landgrabu-data) for the project's Github repository of data.
+  - Spend a few minutes poking around [the project's interactive site](https://www.landgrabu.org/).
+
+_In Class_
+- Using Tableau
 
 #### Mon., Apr. 12: TBD
 
