@@ -226,7 +226,8 @@ _In Class_
   - Spend a few minutes poking around [the project's interactive site](https://www.landgrabu.org/).
 
 _In Class_
-- Using Tableau
+- [Using Tableau]({{site.baseurl}}/hands-on/tableau-public)
+
 
 #### Mon., Apr. 12: TBD
 
