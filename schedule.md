@@ -229,7 +229,11 @@ _In Class_
 - [Using Tableau]({{site.baseurl}}/hands-on/tableau-public)
 
 
-#### Mon., Apr. 12: TBD
+#### Mon., Apr. 12: Data Analysis and Visualization (cont'd)
+- Ana Jofre, Josh Cole, Vincent Berardi, Carl Bennett, Michael Reale, ["What’s in a Face? Gender representation of faces in Time, 1940s-1990s"](https://doi.org/10.22148/001c.12266) *Cultural Analytics* (March 19, 2020).
+
+_In Class_
+- [Using Tableau]({{site.baseurl}}/hands-on/tableau-public)
 
 ## VI. Final Projects
 
