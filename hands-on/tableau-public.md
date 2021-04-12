@@ -44,7 +44,20 @@ Sheet 2:
 
 ## Publish the data online
 
-- Embed your map into a new post on your Wordpress sandbox site [using these instructions](https://youtu.be/LVmpQ2c0fmg?t=269). If it's not working for you ask your classmates or Professor Blevins for help. 
+- Embed your map into a new post on your Wordpress sandbox site. You can use [these instructions](https://youtu.be/LVmpQ2c0fmg?t=269) or try to do the following:
+  - Make a new post or page in Wordpress
+  - Insert a new block and make sure its type is set to `Custom HTML`
+  - Publish your Tableau Public workbook online
+  - Open your Tableau Public workbook through your browser and click on the Share icon in the bottom right (3 circles with lines connecting them).
+  - Click the embed code text book and copy it
+  - Paste it into your Wordpress Custom HTML block. It should look like a bunch of jumbled text that starts with `<div class=`. This is the Javascript code that is going to allow you to display your Tableau visualization inside a webpage.
+- If it's not working for you ask your classmates or Professor Blevins for help. 
 
+## Bonus Tableau Practice
 
+Try to create a chart/map that answers the following questions:
+
+- What are some of the most common names for post offices in the dataset?
+- Which states had the most post offices operating within them during the 1900s? Make a map with each state shaded according to how many post offices operated in that state during the 1900s.
+- In what year did the first post office open in Alaska? What was its name?
 
