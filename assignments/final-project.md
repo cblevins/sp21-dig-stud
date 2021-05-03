@@ -9,4 +9,4 @@ You will present your final projects during the last week of class, during which
 
 *Rough Draft due May 3rd*
 
-*Final Draft due May 9th*
+*Final Draft due May 12th*

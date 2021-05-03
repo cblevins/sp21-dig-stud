@@ -40,7 +40,7 @@ In addition to readings, hands-on homework, and in-class discussions and activit
 
 #### [Final Project]({{site.baseurl}}/assignments/final-project)
 - Final project draft and presentation due Week 16 (5/3 or 5/5)
-- Final project (revised) due Sunday, 5/9.
+- Final project (revised) due Wednesday, 5/12.
 
 #### [Self Assessments]({{site.baseurl}}/assignments/self-assessments)
 - Assessment #1 due Week 5 (by Feb. 21st)

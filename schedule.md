@@ -251,6 +251,6 @@ _In Class_
 
 #### Wed., May. 5: Final Project presentations
 
-*Final Project due May 9th*
+*Final Project due May 12th*
 
 *Final [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due by May 12th*
