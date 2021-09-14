@@ -32,8 +32,8 @@ In addition to readings, hands-on homework, and in-class discussions and activit
 #### [Data Exploration]({{site.baseurl}}/assignments/data-exploration)
 - Due during Weeks 9-10 (3/15-3/28). 
 
-#### ~~[Media Project]({{site.baseurl}}/assignments/media-project)~~
-- ~~Due during Weeks 12-13 (4/5-4/18).~~ [Cancelled to give you more time to develop your final projects]
+#### [Media Project]({{site.baseurl}}/assignments/media-project)
+- Due during Weeks 12-13 (4/5-4/18).
 
 #### [HIST 5260 only: Project Review]({{site.baseurl}}/assignments/project-review)
 - Due on different classes during the semester.
